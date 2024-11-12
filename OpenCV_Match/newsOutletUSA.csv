@@ -1,0 +1,965 @@
+Type;Outlet Name;Location;Description
+Newspaper;The Birmingham News;Birmingham;Major daily newspaper covering Birmingham and surrounding areas.
+Newspaper;The Huntsville Times;Huntsville;Provides news coverage for Huntsville and the Tennessee Valley region.
+Newspaper;Press-Register;Mobile;Serves Mobile and the Gulf Coast area.
+Newspaper;The Tuscaloosa News;Tuscaloosa;Focuses on news in Tuscaloosa and West Alabama.
+Newspaper;Opelika-Auburn News;Opelika/Auburn;Covers the Opelika and Auburn regions.
+Newspaper;Daily Mountain Eagle;Jasper;Based in Jasper, serving Walker County.
+Television;WBMA (ABC 33/40);Birmingham;Provides news, weather, and sports for Birmingham and central Alabama.
+Television;WVTM 13 (NBC);Birmingham;Offers local news coverage for Birmingham and surrounding areas.
+Television;WTVM (ABC 9);Columbus, GA;Serves the Columbus, Georgia, and East Alabama regions.
+Television;CBS 42 (WIAT);Birmingham;Covers news across central Alabama, including Birmingham and Tuscaloosa.
+Television;WKRG News 5;Mobile;Focuses on news in Mobile and the Gulf Coast area.
+Radio;WBHM 90.3 FM;Birmingham;NPR affiliate providing news and cultural programming for Birmingham and central Alabama.
+Radio;WUAL 91.5 FM;Tuscaloosa;Part of Alabama Public Radio, serving Tuscaloosa and West Alabama.
+Digital;AL.com;Statewide;Alabama's largest news website, offering comprehensive coverage of state and local news.
+Digital;Yellowhammer News;Statewide;Focuses on Alabama politics, business, and culture.
+Digital;1819 News;Statewide;Conservative news outlet covering Alabama-focused news and opinion pieces.
+Newspaper;Anchorage Daily News;Anchorage;Alaska's most widely read newspaper, offering statewide news coverage. Anchorage Daily News
+Newspaper;Juneau Empire;Juneau;Provides news coverage for Juneau and Southeast Alaska. Wikipedia
+Newspaper;Fairbanks Daily News-Miner;Fairbanks;Covers news in Fairbanks and the Interior region.
+Newspaper;Ketchikan Daily News;Ketchikan;Serves Ketchikan and surrounding communities.
+Newspaper;Peninsula Clarion;Kenai;Focuses on news in the Kenai Peninsula area.
+Newspaper;Chilkat Valley News;Haines;Weekly newspaper serving the Chilkat Valley and Haines Borough. Wikipedia
+Television;KTUU-TV (NBC);Anchorage;Provides news, weather, and sports for Anchorage and Southcentral Alaska. Wikipedia
+Television;KAUU (CBS/MyNetworkTV);Anchorage;Offers local news coverage and syndicated programming. Wikipedia
+Television;KTVA (CBS);Anchorage;Former CBS affiliate, now part of Alaska's News Source.
+Television;KTOO-TV;Juneau;Public television station providing news and public affairs programming. KTOO
+Radio;Alaska Public Media;Statewide;NPR affiliate offering news and cultural programming across Alaska. Alaska Public Media
+Radio;KTOO 104.3 FM;Juneau;Public radio station providing news and music programming. KTOO
+Radio;KYUK 640 AM;Bethel;Public radio station serving the Yukon-Kuskokwim Delta region. Kyuk
+Digital;Alaska Beacon;Statewide;Independent, nonpartisan news organization focused on state government. Alaska Beacon
+Digital;Anchorage Press;Anchorage;Provides news, arts, and entertainment coverage for Anchorage.
+Digital;Alaska News Nightly;Statewide;Statewide news program featuring stories of interest to all Alaskans. Alaska Public Media
+Newspaper;The Arizona Republic;Phoenix;Arizona's largest daily newspaper, covering statewide news.
+Newspaper;Arizona Daily Star;Tucson;Provides news coverage for Tucson and Southern Arizona.
+Newspaper;East Valley Tribune;Mesa;Focuses on news in the East Valley region of the Phoenix metro area.
+Newspaper;Arizona Capitol Times;Phoenix;Weekly newspaper covering state politics and government. Wikipedia
+Newspaper;Phoenix New Times;Phoenix;Alternative weekly newspaper covering news, arts, and culture. Wikipedia
+Television;ABC15 Arizona (KNXV);Phoenix;Provides news, weather, and sports for the Phoenix area. ABC15
+Television;12 News (KPNX);Phoenix;NBC affiliate offering local news coverage. 12 News
+Television;FOX 10 Phoenix (KSAZ);Phoenix;FOX affiliate providing news and entertainment programming. Fox 10 Phoenix
+Television;AZPM News (KUAT);Tucson;Public television station offering news and public affairs programming. AZPM News
+Radio;KTAR News 92.3 FM;Phoenix;News/talk radio station covering Phoenix and Maricopa County. Ktar
+Radio;KJZZ 91.5 FM;Phoenix;NPR affiliate providing news and cultural programming.
+Radio;La Campesina 88.3 FM;Phoenix;Spanish-language station focusing on news and community issues. The New Yorker
+Digital;AZCentral.com;Phoenix;Digital platform for The Arizona Republic, offering comprehensive news coverage.
+Digital;Tucson Sentinel;Tucson;Nonprofit online newspaper focusing on local news and investigative reporting. Wikipedia
+Digital;Arizona Mirror;Phoenix;Nonprofit news organization covering state politics and policy.
+Newspaper;Arkansas Democrat-Gazette;Little Rock;The state's largest daily newspaper, offering comprehensive statewide news coverage. Arkansas Online
+Newspaper;Northwest Arkansas Democrat-Gazette;Fayetteville;Provides news coverage for Northwest Arkansas and the River Valley region. Wikipedia
+Newspaper;Arkansas Times;Little Rock;A monthly magazine and online publication covering news, politics, and culture. Arkansas Times
+Television;KATV (ABC 7);Little Rock;ABC affiliate providing news, weather, and sports for Central Arkansas. KATV
+Television;KARK (NBC 4);Little Rock;NBC affiliate offering local news coverage for Central Arkansas. Kark
+Television;KLRT (FOX 16);Little Rock;FOX affiliate providing news and entertainment programming. Fox 16
+Television;KNWA (NBC 51);Fayetteville;NBC affiliate serving Northwest Arkansas and the River Valley. Wikipedia
+Television;KAIT (ABC/NBC/CW 8);Jonesboro;Provides news coverage for Northeast Arkansas. Wikipedia
+Radio;KUAR 89.1 FM;Little Rock;NPR affiliate offering news and cultural programming for Central Arkansas.
+Radio;KARN News Radio 102.9 FM;Little Rock;News/talk radio station covering Central Arkansas.
+Digital;Talk Business & Politics;Statewide;Online publication focusing on business and political news in Arkansas.
+Digital;Arkansas Business;Little Rock;Provides business news and analysis for Arkansas.
+Newspaper;Los Angeles Times;Los Angeles;Major daily newspaper covering Los Angeles and Southern California. NBC Los Angeles
+Newspaper;San Francisco Chronicle;San Francisco;Leading newspaper serving the San Francisco Bay Area. NBC Bay Area
+Newspaper;The Sacramento Bee;Sacramento;Provides news coverage for Sacramento and Northern California. KTLA
+Newspaper;The San Diego Union-Tribune;San Diego;Covers news in San Diego and surrounding regions. FOX 11 Los Angeles
+Newspaper;The Mercury News;San Jose;Focuses on news in Silicon Valley and the South Bay area. Wikipedia
+Television;KTLA 5;Los Angeles;Provides news, weather, and entertainment for Los Angeles. KTLA
+Television;KPIX 5 (CBS);San Francisco;CBS affiliate offering local news coverage for the Bay Area. NBC Bay Area
+Television;KCRA 3 (NBC);Sacramento;NBC affiliate providing news and weather for Sacramento. KTLA
+Television;KNSD (NBC 7);San Diego;NBC affiliate covering news in San Diego. FOX 11 Los Angeles
+Television;KTVU Fox 2;Oakland;FOX affiliate serving the San Francisco Bay Area. NBC Bay Area
+Radio;KNX 1070 NewsRadio;Los Angeles;All-news radio station covering Southern California. NBC Los Angeles
+Radio;KCBS All News 106.9 FM;San Francisco;All-news radio station serving the Bay Area. NBC Bay Area
+Radio;KQED 88.5 FM;San Francisco;NPR affiliate offering news and cultural programming. NBC Bay Area
+Radio;KPCC 89.3 FM;Pasadena;NPR affiliate providing news for Southern California. NBC Los Angeles
+Radio;KCRW 89.9 FM;Santa Monica;Public radio station offering news and music programming. NBC Los Angeles
+Digital;CalMatters;Statewide;Nonprofit news organization covering California policy and politics. KTLA
+Digital;LAist;Los Angeles;Provides news and information for the Los Angeles area. NBC Los Angeles
+Digital;SFGATE;San Francisco;Online news source covering the Bay Area. NBC Bay Area
+Digital;Voice of San Diego;San Diego;Nonprofit news organization focusing on San Diego issues. FOX 11 Los Angeles
+Digital;Berkeleyside;Berkeley;Independent news site covering Berkeley and the East Bay. NBC Bay Area
+Newspaper;The Denver Post;Denver;Major daily newspaper covering Denver and the Rocky Mountain region. Denver7
+Newspaper;The Colorado Sun;Denver;Online news outlet providing in-depth coverage of Colorado news. Colorado Sun
+Newspaper;Boulder Daily Camera;Boulder;Daily newspaper serving Boulder and surrounding areas. KDVR
+Newspaper;The Gazette;Colorado Springs;Covers news in Colorado Springs and the Pikes Peak region. KDVR
+Newspaper;The Durango Herald;Durango;Provides news coverage for Durango and the Four Corners area. 9 News
+Television;9NEWS (KUSA);Denver;NBC affiliate offering local news, weather, and sports. 9 News
+Television;CBS Colorado (KCNC);Denver;CBS affiliate providing news and entertainment programming. CBS News
+Television;Denver7 (KMGH);Denver;ABC affiliate covering news in the Denver metro area. Denver7
+Television;FOX31 Denver (KDVR);Denver;FOX affiliate offering news, weather, and sports coverage. KDVR
+Television;KRDO NewsChannel 13;Colorado Springs;ABC affiliate serving Southern Colorado. Denver7
+Radio;Colorado Public Radio (CPR);Statewide;NPR affiliate providing news and cultural programming across Colorado. KDVR
+Radio;KOA NewsRadio 850 AM;Denver;News/talk radio station covering Denver and the Front Range. Denver7
+Radio;KUNC 91.5 FM;Greeley;Public radio station offering news and music programming. CBS News
+Radio;KBCO 97.3 FM;Boulder;Music station also providing local news updates. Colorado Sun
+Radio;KGNU 88.5 FM;Boulder/Denver;Community radio station offering news and cultural content. CBS News
+Digital;Colorado Politics;Statewide;Online publication focusing on Colorado political news. Fox 21 News
+Digital;Westword;Denver;Alternative weekly covering news, arts, and culture in Denver. Wikipedia
+Digital;Denverite;Denver;Online news source providing local Denver news and information. Wikipedia
+Digital;The Colorado Independent;Statewide;Nonprofit news organization covering Colorado issues. Wikipedia
+Digital;OutThere Colorado;Statewide;Focuses on outdoor news and activities in Colorado. Wikipedia
+Newspaper;Hartford Courant;Hartford;The oldest continuously published newspaper in the U.S., covering statewide news. Wikipedia
+Newspaper;New Haven Register;New Haven;Provides news coverage for New Haven and surrounding areas. Wikipedia
+Newspaper;The Day;New London;Covers news in southeastern Connecticut. Wikipedia
+Newspaper;Connecticut Post;Bridgeport;Focuses on news in Bridgeport and Fairfield County. Wikipedia
+Newspaper;The News-Times;Danbury;Serves Danbury and the surrounding region. Wikipedia
+Television;NBC Connecticut (WVIT);Hartford;NBC affiliate providing news, weather, and sports. NBC Connecticut
+Television;WFSB Channel 3;Hartford;CBS affiliate offering local news coverage. NBC Connecticut
+Television;FOX 61 (WTIC);Hartford;FOX affiliate providing news and entertainment programming. Fox61
+Television;News 12 Connecticut;Norwalk;Cable news channel covering southwestern Connecticut. News 12 Connecticut
+Television;WTNH News 8;New Haven;ABC affiliate serving New Haven and surrounding areas. NBC Connecticut
+Radio;Connecticut Public Radio;Statewide;NPR affiliate offering news and cultural programming across Connecticut. Connecticut Public
+Radio;WTIC NewsTalk 1080;Hartford;News/talk radio station covering Hartford and the state. Connecticut Post
+Radio;WSHU Public Radio;Fairfield;Public radio station providing news and classical music. Fox61
+Radio;WNPR 90.5 FM;Hartford;Public radio station offering news and talk programs. Connecticut Public
+Radio;WICC 600 AM;Bridgeport;News and talk radio serving Fairfield County. Wikipedia
+Digital;CT Mirror;Statewide;Nonprofit news organization covering Connecticut public policy and politics. CT Mirror
+Digital;CT News Junkie;Statewide;Online news source focusing on state government and politics. Wikipedia
+Digital;Patch Connecticut;Statewide;Hyperlocal news platform covering various Connecticut communities. Wikipedia
+Digital;New Haven Independent;New Haven;Online news outlet providing in-depth local coverage. Wikipedia
+Digital;CT Examiner;Statewide;Digital news site covering Connecticut news and analysis. Wikipedia
+Newspaper;The News Journal;Wilmington;Delaware's largest daily newspaper, covering statewide news. Wikipedia
+Newspaper;Delaware State News;Dover;Daily newspaper serving central and southern Delaware. Wikipedia
+Newspaper;The Delaware Wave;Bethany Beach;Weekly newspaper covering southeastern Delaware. Wikipedia
+Television;6abc Action News;Philadelphia, PA;ABC affiliate covering news in Delaware and the greater Philadelphia area. 6ABC
+Television;WMDT 47abc;Salisbury, MD;ABC affiliate providing news coverage for Delaware's Eastern Shore. WMDT
+Television;WHYY-TV;Wilmington;PBS member station offering news and public affairs programming. Delaware Public Media
+Radio;Delaware Public Media;Dover;NPR affiliate providing news and cultural programming across Delaware. Delaware Public Media
+Radio;WDEL 1150 AM;Wilmington;News/talk radio station covering northern Delaware. Delaware Public Media
+Radio;WDDE 91.1 FM;Dover;Public radio station offering news and information. Delaware Public Media
+Digital;Delaware Online;Wilmington;Digital platform for The News Journal, offering comprehensive news coverage. Wikipedia
+Digital;Delaware LIVE News;Statewide;Online news outlet focusing on Delaware's people, organizations, and businesses. Delaware Live
+Digital;First State Update;Statewide;Provides breaking news and updates across Delaware. First State Update
+Digital;Milford LIVE!;Milford;Local news source covering Kent and Sussex counties. Milford Live
+Digital;DETV;Wilmington;Local media outlet offering news and community programming. Detvch
+Newspaper;Miami Herald;Miami;Major daily newspaper covering Miami and South Florida. Intelligent Relations
+Newspaper;Tampa Bay Times;St. Petersburg;Leading newspaper serving the Tampa Bay area. Wikipedia
+Newspaper;Orlando Sentinel;Orlando;Provides news coverage for Orlando and Central Florida. W3 Newspapers
+Newspaper;Sun Sentinel;Fort Lauderdale;Covers news in Fort Lauderdale and South Florida. W3 Newspapers
+Newspaper;The Palm Beach Post;West Palm Beach;Focuses on news in Palm Beach County and the Treasure Coast. W3 Newspapers
+Television;WPLG Local 10;Miami;ABC affiliate providing news, weather, and sports for South Florida. W3 Newspapers
+Television;WTVT Fox 13;Tampa;FOX affiliate offering local news coverage for the Tampa Bay area. W3 Newspapers
+Television;WESH 2 News;Orlando;NBC affiliate serving Orlando and Central Florida. W3 Newspapers
+Television;WJXT News4JAX;Jacksonville;Independent station covering news in Jacksonville and Northeast Florida. W3 Newspapers
+Television;WINK News;Fort Myers;CBS affiliate providing news coverage for Southwest Florida. W3 Newspapers
+Radio;WLRN 91.3 FM;Miami;NPR affiliate offering news and cultural programming for South Florida. W3 Newspapers
+Radio;WUSF 89.7 FM;Tampa;Public radio station providing news and information for the Tampa Bay area. W3 Newspapers
+Radio;WMFE 90.7 FM;Orlando;NPR affiliate serving Orlando and Central Florida. CF Public
+Radio;WJCT 89.9 FM;Jacksonville;Public radio station offering news and cultural content for Northeast Florida. W3 Newspapers
+Radio;WGCU 90.1 FM;Fort Myers;NPR affiliate providing news and information for Southwest Florida. W3 Newspapers
+Digital;Florida Politics;Statewide;Online publication focusing on political news and analysis in Florida. W3 Newspapers
+Digital;Florida Today;Brevard County;Digital platform offering news coverage for the Space Coast region. W3 Newspapers
+Digital;Creative Loafing Tampa Bay;Tampa;Alternative weekly covering news, arts, and culture in the Tampa Bay area. W3 Newspapers
+Digital;Orlando Weekly;Orlando;Alternative news source focusing on local news, arts, and events in Orlando. W3 Newspapers
+Digital;Miami New Times;Miami;Alternative weekly covering news, arts, and culture in Miami. W3 Newspapers
+Newspaper;The Atlanta Journal-Constitution;Atlanta;Major daily newspaper covering Atlanta and statewide news. AJC
+Newspaper;Savannah Morning News;Savannah;Provides news coverage for Savannah and the coastal region. Georgia Public Broadcasting
+Newspaper;The Augusta Chronicle;Augusta;Covers news in Augusta and the surrounding areas. Georgia Public Broadcasting
+Newspaper;The Telegraph;Macon;Focuses on news in Macon and central Georgia. Georgia Public Broadcasting
+Newspaper;Athens Banner-Herald;Athens;Serves Athens and the northeast Georgia region. Georgia Public Broadcasting
+Television;WSB-TV Channel 2;Atlanta;ABC affiliate providing news, weather, and sports for metro Atlanta. WSB-TV
+Television;11Alive (WXIA-TV);Atlanta;NBC affiliate offering local news coverage for Atlanta. 11Alive
+Television;FOX 5 Atlanta (WAGA-TV);Atlanta;FOX affiliate providing news and entertainment programming. Fox 5 Atlanta
+Television;CBS46 (WGCL-TV);Atlanta;CBS affiliate covering news in the Atlanta metro area. Georgia Public Broadcasting
+Television;WTOC-TV;Savannah;CBS affiliate serving Savannah and the coastal region. Georgia Public Broadcasting
+Radio;WSB Radio 95.5 FM/750 AM;Atlanta;News/talk radio station covering Atlanta and north Georgia. WSB-TV
+Radio;Georgia Public Broadcasting (GPB);Statewide;NPR affiliate offering news and cultural programming across Georgia. Georgia Public Broadcasting
+Radio;WABE 90.1 FM;Atlanta;Public radio station providing news and cultural content for Atlanta. Georgia Public Broadcasting
+Radio;WRAS 88.5 FM;Atlanta;College radio station offering diverse programming, including news. Georgia Public Broadcasting
+Radio;WCLK 91.9 FM;Atlanta;Jazz station also providing news and public affairs programming. Georgia Public Broadcasting
+Digital;Georgia Public Broadcasting News;Statewide;Online news platform offering in-depth coverage of Georgia news. Georgia Public Broadcasting
+Digital;Atlanta Intown;Atlanta;Digital publication focusing on local news and events in Atlanta. Rough Draft Atlanta
+Digital;SaportaReport;Atlanta;Provides news and analysis on metro Atlanta's business and civic issues. Georgia Public Broadcasting
+Digital;The Current;Coastal Georgia;Nonprofit news organization covering coastal Georgia. Georgia Public Broadcasting
+Digital;Georgia Recorder;Statewide;Nonprofit news outlet focusing on Georgia politics and policy. Georgia Public Broadcasting
+Newspaper;Honolulu Star-Advertiser;Honolulu;Hawaii's largest daily newspaper, covering statewide news. Star Advertiser
+Newspaper;The Maui News;Wailuku;Daily newspaper serving Maui, Lanai, and Molokai. Wikipedia
+Newspaper;Hawaii Tribune-Herald;Hilo;Provides news coverage for the Big Island. Big Island Now
+Newspaper;West Hawaii Today;Kailua-Kona;Covers news in West Hawaii and the Big Island. Big Island Now
+Newspaper;The Garden Island;Lihue;Serves Kauai with local news and information. Big Island Now
+Television;KHON2;Honolulu;FOX and CW affiliate providing news, weather, and sports. KHON2 News
+Television;Hawaii News Now;Honolulu;NBC and CBS affiliate offering local news coverage. Big Island Now
+Television;KITV4 Island News;Honolulu;ABC affiliate covering news across the Hawaiian Islands. Big Island Now
+Television;KHII;Honolulu;MyNetworkTV affiliate providing additional news programming. Big Island Now
+Television;KFVE;Honolulu;Independent station offering local news and entertainment. Big Island Now
+Radio;Hawai‘i Public Radio;Statewide;NPR affiliate offering news and cultural programming across Hawaii. Hawaii Public Radio
+Radio;KSSK AM 590 / FM 92.3;Honolulu;News/talk radio station covering Oahu and statewide. Big Island Now
+Radio;KHVH News Radio 830 AM;Honolulu;Provides news and talk programming for Honolulu. Big Island Now
+Radio;KINE FM 105.1;Honolulu;Hawaiian music station also offering news updates. Big Island Now
+Radio;KKCR 90.9 FM;Hanalei;Community radio station serving Kauai with news and music. Big Island Now
+Digital;Honolulu Civil Beat;Honolulu;Nonprofit news organization focusing on investigative journalism. Civil Beat
+Digital;Big Island Now;Hilo;Online news source covering the Big Island. Big Island Now
+Digital;Maui Now;Kahului;Provides news and information for Maui County. Big Island Now
+Digital;Kauai Now;Lihue;Online platform offering news for Kauai residents. Big Island Now
+Digital;Hawaii Free Press;Statewide;Digital news outlet covering Hawaii politics and issues. Big Island Now
+Newspaper;Idaho Statesman;Boise;Major daily newspaper covering Boise and the Treasure Valley. Idaho Statesman
+Newspaper;Idaho Press;Nampa;Provides news coverage for Nampa and the surrounding areas. Idaho Statesman
+Newspaper;The Spokesman-Review;Coeur d'Alene;Covers news in northern Idaho and eastern Washington. Idaho Statesman
+Newspaper;Post Register;Idaho Falls;Serves eastern Idaho with local news and information. Idaho Statesman
+Newspaper;Lewiston Tribune;Lewiston;Provides news coverage for the Lewiston-Clarkston Valley. Idaho Statesman
+Television;KTVB;Boise;NBC affiliate offering news, weather, and sports for southwestern Idaho. KTVB
+Television;KBOI-TV (CBS 2);Boise;CBS affiliate providing local news coverage. Idaho News
+Television;KIVI-TV (Idaho News 6);Boise;ABC affiliate serving Boise and the Treasure Valley. KiviTV
+Television;KXLY-TV;Coeur d'Alene;ABC affiliate covering news in northern Idaho. Idaho Statesman
+Television;KIFI Local News 8;Idaho Falls;ABC affiliate providing news for eastern Idaho and western Wyoming. Idaho Statesman
+Radio;Boise State Public Radio;Boise;NPR affiliate offering news and cultural programming across Idaho. Boise State Public Radio
+Radio;KBOI 670 AM;Boise;News/talk radio station covering Boise and southwestern Idaho. Idaho Statesman
+Radio;KBSX 91.5 FM;Boise;Public radio station providing news and information. Boise State Public Radio
+Radio;KISU 91.1 FM;Pocatello;Public radio station serving southeastern Idaho. Idaho Statesman
+Radio;KRFY 88.5 FM;Sandpoint;Community radio station offering local news and music. Idaho Statesman
+Digital;IdahoEdNews.org;Statewide;Online news outlet focusing on education in Idaho. Idaho Statesman
+Digital;Idaho Reports;Statewide;Provides in-depth coverage of Idaho politics and government. Idaho Statesman
+Digital;East Idaho News;Idaho Falls;Online news source covering eastern Idaho. East Idaho News
+Digital;BoiseDev;Boise;Digital publication focusing on development and business news in Boise. Idaho Statesman
+Digital;Idaho Press-Tribune;Nampa;Online platform offering news for Nampa and the Treasure Valley. Idaho Statesman
+Newspaper;Chicago Tribune;Chicago;Major daily newspaper covering Chicago and statewide news. Agility PR
+Newspaper;Chicago Sun-Times;Chicago;Provides news coverage for Chicago and the surrounding areas. Agility PR
+Newspaper;The State Journal-Register;Springfield;Covers news in Springfield and central Illinois. Agility PR
+Newspaper;Daily Herald;Arlington Heights;Serves the northwest suburbs of Chicago with local news. Agility PR
+Newspaper;The News-Gazette;Champaign;Focuses on news in Champaign-Urbana and east-central Illinois. Agility PR
+Television;WGN-TV;Chicago;Independent station providing news, weather, and sports for Chicago. NBC Chicago
+Television;WLS-TV (ABC 7);Chicago;ABC affiliate offering local news coverage for Chicago. NBC Chicago
+Television;WMAQ-TV (NBC 5);Chicago;NBC affiliate covering news in the Chicago metro area. NBC Chicago
+Television;WBBM-TV (CBS 2);Chicago;CBS affiliate providing news and entertainment programming. NBC Chicago
+Television;WFLD (FOX 32);Chicago;FOX affiliate offering news and sports coverage. NBC Chicago
+Radio;WBEZ 91.5 FM;Chicago;NPR affiliate offering news and cultural programming across Chicago. NPR Illinois
+Radio;WGN 720 AM;Chicago;News/talk radio station covering Chicago and northern Illinois. NPR Illinois
+Radio;WBBM Newsradio 780 AM;Chicago;All-news radio station providing 24/7 news coverage. NPR Illinois
+Radio;WBEZ 91.5 FM;Chicago;Public radio station offering news and information. NPR Illinois
+Radio;WDCB 90.9 FM;Glen Ellyn;Public radio station serving the western suburbs with news and jazz. NPR Illinois
+Digital;Block Club Chicago;Chicago;Nonprofit news organization focusing on neighborhood-level reporting. Public Narrative
+Digital;Illinois Newsroom;Statewide;Collaborative journalism venture providing in-depth coverage of Illinois issues. NPR Illinois
+Digital;Capitol News Illinois;Springfield;News service covering state government and politics. NPR Illinois
+Digital;Chicago Reader;Chicago;Alternative weekly covering news, arts, and culture in Chicago. Public Narrative
+Digital;Crain's Chicago Business;Chicago;Provides business news and analysis for the Chicago area. Public Narrative
+Newspaper;The Indianapolis Star;Indianapolis;Major daily newspaper covering Indianapolis and statewide news. Wikipedia
+Newspaper;The Herald-Times;Bloomington;Daily newspaper serving Bloomington and surrounding areas. Wikipedia
+Newspaper;The Times;Munster;Provides news coverage for northwest Indiana. Wikipedia
+Newspaper;The Journal Gazette;Fort Wayne;Covers news in Fort Wayne and northeast Indiana. Wikipedia
+Newspaper;The Courier & Press;Evansville;Focuses on news in Evansville and southwestern Indiana. Wikipedia
+Television;WTHR Channel 13;Indianapolis;NBC affiliate providing news, weather, and sports for central Indiana. WTHR
+Television;WRTV Channel 6;Indianapolis;ABC affiliate offering local news coverage for Indianapolis. WRTV
+Television;WISH-TV Channel 8;Indianapolis;CW affiliate covering news in the Indianapolis metro area. WISH-TV
+Television;FOX59 (WXIN);Indianapolis;FOX affiliate providing news and entertainment programming. Fox 59
+Television;WFYI Public Media;Indianapolis;PBS affiliate offering educational and cultural programming. WFYI
+Radio;WFYI 90.1 FM;Indianapolis;NPR affiliate offering news and cultural programming across central Indiana. WFYI
+Radio;WBAA 920 AM / 101.3 FM;West Lafayette;Public radio station serving the Lafayette area. Wikipedia
+Radio;WFIU 103.7 FM;Bloomington;Public radio station providing news and information. Indiana Public Media
+Radio;WBOI 89.1 FM;Fort Wayne;Public radio station offering news and cultural content for northeast Indiana. Wikipedia
+Radio;WVPE 88.1 FM;Elkhart;NPR affiliate serving the Michiana region. Wikipedia
+Digital;Indiana Public Media;Statewide;Online platform offering news and cultural content from WFIU and WTIU. Indiana Public Media
+Digital;IndyStar.com;Indianapolis;Digital platform for The Indianapolis Star, providing comprehensive news coverage. Wikipedia
+Digital;Inside Indiana Business;Statewide;Provides business news and analysis for Indiana. Wikipedia
+Digital;TheStatehouseFile.com;Indianapolis;News website covering Indiana politics and government. Wikipedia
+Digital;NUVO;Indianapolis;Alternative news source focusing on arts, culture, and local events. Wikipedia
+Newspaper;The Des Moines Register;Des Moines;Iowa's largest daily newspaper, covering statewide news. Wikipedia
+Newspaper;The Gazette;Cedar Rapids;Leading daily newspaper serving Eastern Iowa. Wikipedia
+Newspaper;Quad-City Times;Davenport;Provides news coverage for the Quad Cities region. Wikipedia
+Newspaper;Sioux City Journal;Sioux City;Covers news in Sioux City and northwest Iowa. Wikipedia
+Newspaper;The Waterloo-Cedar Falls Courier;Waterloo;Focuses on news in Waterloo, Cedar Falls, and the Cedar Valley. Wikipedia
+Television;KCCI 8 News;Des Moines;CBS affiliate providing news, weather, and sports for central Iowa. Who13
+Television;WHO 13 News;Des Moines;NBC affiliate offering local news coverage for Des Moines and central Iowa. Who13
+Television;KCRG-TV9;Cedar Rapids;ABC affiliate serving Eastern Iowa with news and weather updates. Who13
+Television;KWQC-TV6;Davenport;NBC affiliate covering news in the Quad Cities area. Who13
+Television;KTIV News 4;Sioux City;NBC affiliate providing news coverage for Sioux City and northwest Iowa. Who13
+Radio;Iowa Public Radio;Statewide;NPR affiliate offering news and cultural programming across Iowa. Iowa Public Radio
+Radio;WHO Radio 1040 AM;Des Moines;News/talk radio station covering Des Moines and central Iowa. Who13
+Radio;KXEL 1540 AM;Waterloo;News/talk radio station serving Waterloo and northeast Iowa. Who13
+Radio;WMT 600 AM;Cedar Rapids;News/talk radio station covering Cedar Rapids and Eastern Iowa. Who13
+Radio;KSCJ 1360 AM;Sioux City;News/talk radio station serving Sioux City and northwest Iowa. Who13
+Digital;Iowa Capital Dispatch;Statewide;Nonprofit news organization focusing on Iowa politics and policy. Who13
+Digital;Bleeding Heartland;Statewide;Independent news and analysis on Iowa politics. Who13
+Digital;Little Village;Iowa City;Alternative news source covering arts, culture, and news in Iowa City and Cedar Rapids. Who13
+Digital;The Daily Iowan;Iowa City;Student-run newspaper of the University of Iowa, covering campus and local news. Who13
+Digital;Iowa Starting Line;Statewide;Online news outlet focusing on Iowa politics and campaigns. Who13
+Newspaper;The Wichita Eagle;Wichita;Major daily newspaper covering Wichita and south-central Kansas. Kansas City
+Newspaper;The Topeka Capital-Journal;Topeka;Provides news coverage for Topeka and northeast Kansas. Kansas City
+Newspaper;The Kansas City Star;Kansas City;Covers news in Kansas City and the surrounding areas, including parts of Kansas. Kansas City
+Newspaper;Lawrence Journal-World;Lawrence;Focuses on news in Lawrence and Douglas County. Kansas City
+Newspaper;The Hutchinson News;Hutchinson;Serves Hutchinson and the central Kansas region. Kansas City
+Television;KSNW (KSN News);Wichita;NBC affiliate providing news, weather, and sports for Wichita and central Kansas. KSN
+Television;KAKE News;Wichita;ABC affiliate offering local news coverage for Wichita and surrounding areas. Kansas City
+Television;WIBW-TV;Topeka;CBS affiliate covering news in Topeka and northeast Kansas. Kansas City
+Television;KSNT News;Topeka;NBC affiliate serving Topeka and northeast Kansas. Kansas City
+Television;KCTV5 News;Kansas City;CBS affiliate providing news coverage for the Kansas City metro area, including parts of Kansas. Kansas City
+Radio;Kansas Public Radio (KPR);Lawrence;NPR affiliate offering news and cultural programming across Kansas. Kansas Public Radio
+Radio;KMUW 89.1 FM;Wichita;Public radio station providing news and information for south-central Kansas. Kansas City
+Radio;KANU 91.5 FM;Lawrence;Public radio station serving northeast Kansas. Kansas City
+Radio;KPR2 96.1 FM;Lawrence;Secondary public radio station offering additional news programming. Kansas City
+Radio;KFDI-FM 101.3;Wichita;Country music station also providing news updates for Wichita. Kansas City
+Digital;Kansas Reflector;Statewide;Nonprofit news organization focusing on Kansas politics and policy. Kansas City
+Digital;The Lawrence Times;Lawrence;Online news source covering local news in Lawrence and Douglas County. Kansas City
+Digital;The Topeka Capital-Journal Online;Topeka;Digital platform offering news coverage for Topeka and northeast Kansas. Kansas City
+Digital;Wichita Business Journal;Wichita;Provides business news and analysis for the Wichita area. Kansas City
+Digital;Shawnee Mission Post;Shawnee Mission;Online news outlet covering local news in the Shawnee Mission area. Wikipedia
+Newspaper;The Courier-Journal;Louisville;Kentucky's largest daily newspaper, covering Louisville and statewide news. Wikipedia
+Newspaper;Lexington Herald-Leader;Lexington;Major daily newspaper serving Lexington and central Kentucky. Kentucky
+Newspaper;The Paducah Sun;Paducah;Provides news coverage for Paducah and western Kentucky. Kentucky
+Newspaper;The Bowling Green Daily News;Bowling Green;Covers news in Bowling Green and south-central Kentucky. Kentucky
+Newspaper;The Kentucky Standard;Bardstown;Focuses on news in Bardstown and Nelson County. Kentucky
+Television;WLKY News;Louisville;CBS affiliate providing news, weather, and sports for Louisville and southern Indiana. WLKY
+Television;WLEX-TV (LEX 18);Lexington;NBC affiliate offering local news coverage for Lexington and central Kentucky. Lex 18
+Television;WKYT-TV;Lexington;CBS affiliate covering news in Lexington and eastern Kentucky. Kentucky
+Television;WAVE 3 News;Louisville;NBC affiliate providing news coverage for Louisville and surrounding areas. Kentucky
+Television;WBKO-TV;Bowling Green;ABC/Fox/CW affiliate serving Bowling Green and south-central Kentucky. Kentucky
+Radio;Kentucky Public Radio;Statewide;NPR affiliate offering news and cultural programming across Kentucky. Kentucky
+Radio;WHAS 840 AM;Louisville;News/talk radio station covering Louisville and the Ohio Valley region. Kentucky
+Radio;WUKY 91.3 FM;Lexington;Public radio station providing news and information for central Kentucky. Kentucky
+Radio;WKMS 91.3 FM;Murray;Public radio station serving western Kentucky and northwest Tennessee. Kentucky
+Radio;WEKU 88.9 FM;Richmond;Public radio station offering news and cultural content for eastern Kentucky. Kentucky
+Digital;Kentucky Today;Statewide;Online news platform covering Kentucky politics, business, and culture. Kentucky
+Digital;Insider Louisville;Louisville;Digital publication focusing on business and civic news in Louisville. Kentucky
+Digital;KyForward;Statewide;Online news source providing statewide news and commentary. Kentucky
+Digital;Northern Kentucky Tribune;Northern Kentucky;Digital news outlet covering the Northern Kentucky region. Kentucky
+Digital;The Lane Report;Statewide;Business and economic news publication serving Kentucky. Kentucky
+Newspaper;The Times-Picayune;The New Orleans Advocate;New Orleans
+Newspaper;The Advocate;Baton Rouge;Daily newspaper serving Baton Rouge and surrounding areas. Muck Rack
+Newspaper;The Acadiana Advocate;Lafayette;Provides news coverage for the Acadiana region. Muck Rack
+Newspaper;The Shreveport-Bossier City Advocate;Shreveport;Covers news in Shreveport, Bossier City, and northwest Louisiana. Muck Rack
+Newspaper;The Daily Advertiser;Lafayette;Focuses on news in Lafayette and the Acadiana area. All You Can Read
+Television;WWL-TV;New Orleans;CBS affiliate providing news, weather, and sports for New Orleans and southeast Louisiana. WWL-TV
+Television;WAFB 9 News;Baton Rouge;CBS affiliate offering local news coverage for Baton Rouge and surrounding areas. All You Can Read
+Television;KATC-TV;Lafayette;ABC affiliate serving the Acadiana region with news and weather updates. All You Can Read
+Television;KSLA News 12;Shreveport;CBS affiliate covering news in Shreveport and northwest Louisiana. All You Can Read
+Television;KPLC 7 News;Lake Charles;NBC affiliate providing news coverage for Lake Charles and southwest Louisiana. All You Can Read
+Radio;Louisiana Public Broadcasting;Statewide;NPR affiliate offering news and cultural programming across Louisiana. LPB
+Radio;WWNO 89.9 FM;New Orleans;Public radio station providing news and information for New Orleans and southeast Louisiana. LPB
+Radio;WRKF 89.3 FM;Baton Rouge;Public radio station serving Baton Rouge and surrounding areas. LPB
+Radio;KRVS 88.7 FM;Lafayette;Public radio station offering news and cultural content for the Acadiana region. LPB
+Radio;KEDM 90.3 FM;Monroe;Public radio station serving northeast Louisiana. LPB
+Digital;NOLA.com;New Orleans;Online platform for The Times-Picayune, providing comprehensive news coverage. Muck Rack
+Digital;The Lens;New Orleans;Nonprofit news organization focusing on in-depth reporting in New Orleans. All You Can Read
+Digital;Louisiana Illuminator;Statewide;Online news outlet covering Louisiana politics and policy. All You Can Read
+Digital;The Current;Lafayette;Digital publication focusing on investigative journalism in Lafayette. All You Can Read
+Digital;Shreveport Times;Shreveport;Online platform offering news for Shreveport and northwest Louisiana. All You Can Read
+Newspaper;Portland Press Herald;Portland;Maine's largest daily newspaper, covering statewide news. Press Herald
+Newspaper;Bangor Daily News;Bangor;Provides news coverage for Bangor and northern Maine. Press Herald
+Newspaper;Kennebec Journal;Augusta;Focuses on news in Augusta and the Kennebec Valley. Press Herald
+Newspaper;Morning Sentinel;Waterville;Covers news in Waterville and central Maine. Press Herald
+Newspaper;Sun Journal;Lewiston;Serves Lewiston, Auburn, and the surrounding areas. Press Herald
+Television;WCSH 6 (NEWS CENTER Maine);Portland;NBC affiliate providing news, weather, and sports for southern Maine. News Center Maine
+Television;WLBZ 2 (NEWS CENTER Maine);Bangor;NBC affiliate offering local news coverage for northern and eastern Maine. News Center Maine
+Television;WGME 13;Portland;CBS affiliate covering news in Portland and southern Maine. WGME
+Television;WMTW 8;Portland;ABC affiliate providing news coverage for Portland and the Lakes Region. WMTW
+Television;WVII 7 (ABC 7);Bangor;ABC affiliate serving Bangor and eastern Maine. WMTW
+Radio;Maine Public;Statewide;NPR affiliate offering news and cultural programming across Maine. Maine Public
+Radio;WGAN 560 AM;Portland;News/talk radio station covering Portland and southern Maine. Maine Public
+Radio;WZON 620 AM;Bangor;News/talk radio station serving Bangor and central Maine. Maine Public
+Radio;WMPG 90.9 FM;Portland;Community radio station offering diverse programming in southern Maine. Maine Public
+Radio;WERU 89.9 FM;Blue Hill;Community radio station serving eastern Maine with news and music. Maine Public
+Digital;Maine Public;Statewide;Online platform offering news and cultural content from Maine Public. Maine Public
+Digital;The Bollard;Portland;Monthly magazine covering local news and arts in Portland. Wikipedia
+Digital;Maine Trust for Local News;Statewide;Network of independent news outlets serving various regions in Maine. Metln
+Digital;The Forecaster;Falmouth;Weekly newspaper covering southern Maine communities. Press Herald
+Digital;The Times Record;Brunswick;Daily newspaper serving the Mid Coast region of Maine. Press Herald
+Newspaper;The Baltimore Sun;Baltimore;Maryland's largest daily newspaper, covering local, regional, national, and international news. Wikipedia
+Newspaper;The Washington Post;Washington, D.C.;Major daily newspaper covering the D.C. metro area, including Maryland. Wikipedia
+Newspaper;The Capital Gazette;Annapolis;Provides news coverage for Annapolis and Anne Arundel County. Wikipedia
+Newspaper;The Frederick News-Post;Frederick;Covers news in Frederick County and western Maryland. Wikipedia
+Newspaper;The Daily Times;Salisbury;Focuses on news in Salisbury and the Eastern Shore. Wikipedia
+Television;WBAL-TV 11;Baltimore;NBC affiliate providing news, weather, and sports for Baltimore and central Maryland. WBAL-TV
+Television;WJZ-TV CBS Baltimore;Baltimore;CBS affiliate offering local news coverage for Baltimore and surrounding areas. CBS News
+Television;WMAR-TV 2;Baltimore;ABC affiliate serving Baltimore with news and weather updates. WMAR 2 News
+Television;WTTG FOX 5;Washington, D.C.;FOX affiliate covering news in the D.C. metro area, including Maryland. Fox 5 DC
+Television;WUSA 9;Washington, D.C.;CBS affiliate providing news coverage for the D.C. metro area, including Maryland. NBC Washington
+Radio;WTOP 103.5 FM;Washington, D.C.;News radio station covering the D.C. metro area, including Maryland. WTOP
+Radio;WYPR 88.1 FM;Baltimore;NPR affiliate offering news and cultural programming across Maryland. CBS News
+Radio;WBAL NewsRadio 1090 AM;Baltimore;News/talk radio station covering Baltimore and central Maryland. WBAL-TV
+Radio;WAMU 88.5 FM;Washington, D.C.;NPR affiliate serving the D.C. metro area, including Maryland. CBS News
+Radio;WEAA 88.9 FM;Baltimore;Public radio station offering news and jazz programming. CBS News
+Digital;Maryland Matters;Statewide;Online news outlet covering Maryland politics and policy. Moco360
+Digital;MoCo360;Montgomery County;Digital publication focusing on news in Montgomery County. Moco360
+Digital;Baltimore Brew;Baltimore;Independent news website covering Baltimore city issues. Moco360
+Digital;DCist;Washington, D.C.;Online news source covering the D.C. metro area, including Maryland. Moco360
+Digital;Shore News Network;Eastern Shore;Online news outlet covering Maryland's Eastern Shore region. Shore News Network
+Newspaper;The Boston Globe;Boston;Major daily newspaper covering Boston and statewide news. Boston
+Newspaper;The Berkshire Eagle;Pittsfield;Daily newspaper serving Berkshire County and surrounding areas. Wikipedia
+Newspaper;The Springfield Republican;Springfield;Provides news coverage for Springfield and western Massachusetts. Wikipedia
+Newspaper;The Patriot Ledger;Quincy;Covers news in Quincy and the South Shore region. Wikipedia
+Newspaper;The Cape Cod Times;Hyannis;Focuses on news in Cape Cod and the Islands. Wikipedia
+Television;WBZ-TV (CBS Boston);Boston;CBS affiliate providing news, weather, and sports for the Boston area. CBS News
+Television;WCVB Channel 5;Boston;ABC affiliate offering local news coverage for Boston and surrounding areas. WCVB
+Television;WHDH 7News;Boston;Independent station covering news in Boston and New England. NBC Boston
+Television;NBC10 Boston;Boston;NBC affiliate providing news coverage for Boston and eastern Massachusetts. NBC Boston
+Television;Boston 25 News (WFXT);Boston;FOX affiliate offering news and weather updates for the Boston area. Boston 25 News
+Radio;WBUR 90.9 FM;Boston;NPR affiliate offering news and cultural programming across Massachusetts. WBUR
+Radio;WGBH 89.7 FM;Boston;Public radio station providing news and information for the Boston area. WBUR
+Radio;WBZ NewsRadio 1030 AM;Boston;News/talk radio station covering Boston and New England. WBUR
+Radio;WEEI 93.7 FM;Boston;Sports radio station serving the Boston area. WBUR
+Radio;WCRB 99.5 FM;Lowell;Classical music station offering news and cultural content. WBUR
+Digital;Boston.com;Boston;Online platform offering news, entertainment, and lifestyle content for Boston. Boston
+Digital;MassLive;Statewide;Digital news outlet covering Massachusetts news and events. Boston
+Digital;CommonWealth Magazine;Boston;Online publication focusing on Massachusetts politics and policy. Boston
+Digital;Universal Hub;Boston;Community news website covering local events and issues in Boston. Boston
+Digital;New England Public Media;Springfield;Provides news and cultural content for western Massachusetts and beyond. Boston
+Newspaper;Detroit Free Press;Detroit;Major daily newspaper covering Detroit and statewide news. Click On Detroit
+Newspaper;The Detroit News;Detroit;Provides news coverage for Detroit and southeastern Michigan. Click On Detroit
+Newspaper;The Grand Rapids Press;Grand Rapids;Covers news in Grand Rapids and western Michigan. Click On Detroit
+Newspaper;Lansing State Journal;Lansing;Focuses on news in Lansing and mid-Michigan. Click On Detroit
+Newspaper;The Flint Journal;Flint;Serves Flint and the surrounding areas. Click On Detroit
+Television;WDIV Local 4;Detroit;NBC affiliate providing news, weather, and sports for Detroit and southeastern Michigan. Click On Detroit
+Television;WXYZ Channel 7;Detroit;ABC affiliate offering local news coverage for Detroit and surrounding areas. WXYZ
+Television;FOX 2 Detroit;Detroit;FOX affiliate covering news in Detroit and southeastern Michigan. Fox 2 Detroit
+Television;WOOD TV8;Grand Rapids;NBC affiliate providing news coverage for Grand Rapids and western Michigan. Click On Detroit
+Television;WLNS 6 News;Lansing;CBS affiliate offering news and weather updates for Lansing and mid-Michigan. WLNS
+Radio;WJR 760 AM;Detroit;News/talk radio station covering Detroit and southeastern Michigan. Click On Detroit
+Radio;WWJ Newsradio 950;Detroit;All-news radio station serving Detroit and the surrounding areas. Click On Detroit
+Radio;Michigan Radio;Statewide;NPR affiliate offering news and cultural programming across Michigan. Click On Detroit
+Radio;WDET 101.9 FM;Detroit;Public radio station providing news and information for Detroit. Click On Detroit
+Radio;WKAR 90.5 FM;East Lansing;Public radio station serving Lansing and mid-Michigan. Click On Detroit
+Digital;MLive.com;Statewide;Online platform offering news, entertainment, and sports coverage for Michigan. Click On Detroit
+Digital;Bridge Michigan;Statewide;Nonprofit news organization focusing on Michigan politics and policy. Click On Detroit
+Digital;Detroit Metro Times;Detroit;Alternative weekly covering news, arts, and culture in Detroit. Click On Detroit
+Digital;Crain's Detroit Business;Detroit;Business news publication serving Detroit and southeastern Michigan. Click On Detroit
+Digital;The Michigan Daily;Ann Arbor;Student-run newspaper of the University of Michigan, covering campus and local news. Click On Detroit
+Newspaper;Star Tribune;Minneapolis;Minnesota's largest daily newspaper, covering statewide news. Agility PR
+Newspaper;St. Paul Pioneer Press;St. Paul;Daily newspaper serving St. Paul and the Twin Cities metro area. Agility PR
+Newspaper;Duluth News Tribune;Duluth;Provides news coverage for Duluth and northeastern Minnesota. Agility PR
+Newspaper;Rochester Post-Bulletin;Rochester;Covers news in Rochester and southeastern Minnesota. Agility PR
+Newspaper;Mankato Free Press;Mankato;Focuses on news in Mankato and south-central Minnesota. Agility PR
+Television;KARE 11;Minneapolis;NBC affiliate providing news, weather, and sports for the Twin Cities and greater Minnesota. KARE 11
+Television;WCCO-TV;Minneapolis;CBS affiliate offering local news coverage for Minneapolis, St. Paul, and surrounding areas. CBS News
+Television;KSTP-TV;St. Paul;ABC affiliate serving the Twin Cities with news and weather updates. KSTP
+Television;FOX 9 KMSP-TV;Minneapolis;FOX affiliate covering news in Minneapolis, St. Paul, and the Twin Cities metro area. KARE 11
+Television;KTTC-TV;Rochester;NBC affiliate providing news coverage for Rochester and southeastern Minnesota. KARE 11
+Radio;Minnesota Public Radio (MPR);Statewide;NPR affiliate offering news and cultural programming across Minnesota. NewsMap
+Radio;WCCO Radio 830 AM;Minneapolis;News/talk radio station covering Minneapolis, St. Paul, and greater Minnesota. CBS News
+Radio;KMOJ 89.9 FM;Minneapolis;Community radio station serving the Twin Cities with urban and cultural programming. KARE 11
+Radio;KNOW 91.1 FM;Minneapolis;MPR News station providing news and information for the Twin Cities. NewsMap
+Radio;KAXE 91.7 FM;Grand Rapids;Community radio station serving northern Minnesota with news and music. KARE 11
+Digital;MinnPost;Minneapolis;Nonprofit news organization focusing on in-depth reporting in Minnesota. MinnPost
+Digital;Bring Me The News;Minneapolis;Online news platform covering Minnesota news, sports, and entertainment. KARE 11
+Digital;Twin Cities Pioneer Press;St. Paul;Digital platform offering news for St. Paul and the Twin Cities metro area. Agility PR
+Digital;City Pages;Minneapolis;Alternative weekly covering news, arts, and culture in the Twin Cities. KARE 11
+Digital;The Rake;Minneapolis;Online magazine focusing on Minnesota culture and lifestyle. KARE 11
+Newspaper;The Clarion-Ledger;Jackson;Major daily newspaper covering Jackson and statewide news. Wikipedia
+Newspaper;Sun Herald;Biloxi;Provides news coverage for Biloxi, Gulfport, and the Mississippi Gulf Coast. Sun Herald
+Newspaper;Northeast Mississippi Daily Journal;Tupelo;Covers news in Tupelo and northeastern Mississippi. Wikipedia
+Newspaper;The Commercial Dispatch;Columbus;Focuses on news in Columbus and the Golden Triangle area. Wikipedia
+Newspaper;Hattiesburg American;Hattiesburg;Serves Hattiesburg and the Pine Belt region. Wikipedia
+Television;WJTV 12 News;Jackson;CBS affiliate providing news, weather, and sports for Jackson and central Mississippi. WJTV
+Television;WLBT 3 News;Jackson;NBC affiliate offering local news coverage for Jackson and surrounding areas. WJTV
+Television;WAPT 16 News;Jackson;ABC affiliate serving Jackson with news and weather updates. WAPT
+Television;WLOX News;Biloxi;ABC/CBS affiliate covering news in Biloxi, Gulfport, and the Mississippi Gulf Coast. WJTV
+Television;WDAM 7 News;Hattiesburg;NBC/ABC affiliate providing news coverage for Hattiesburg and the Pine Belt region. WJTV
+Radio;Mississippi Public Broadcasting (MPB);Statewide;NPR affiliate offering news and cultural programming across Mississippi. MPB Online
+Radio;SuperTalk Mississippi;Statewide;Statewide radio network providing news, talk, and sports programming. Supertalk
+Radio;WJMI 99.7 FM;Jackson;Urban contemporary radio station serving the Jackson area. WJTV
+Radio;WMPN 91.3 FM;Jackson;MPB Think Radio station offering news and talk programming. MPB Online
+Radio;WPRL 91.7 FM;Lorman;Public radio station serving Alcorn State University and surrounding areas. WJTV
+Digital;Mississippi Today;Statewide;Nonprofit news organization focusing on in-depth reporting in Mississippi. Mississippi Today
+Digital;Darkhorse Press;Statewide;Online news outlet covering crime and justice in Mississippi. Wikipedia
+Digital;Jackson Free Press;Jackson;Alternative weekly covering news, arts, and culture in Jackson. Jackson Free Press
+Digital;Y'all Politics;Statewide;Online platform focusing on Mississippi politics and government. WJTV
+Digital;Magnolia State Live;Statewide;Digital news outlet covering statewide news and events. WJTV
+Newspaper;St. Louis Post-Dispatch;St. Louis;Major daily newspaper covering St. Louis and statewide news. Muck Rack
+Newspaper;Kansas City Star;Kansas City;Provides news coverage for Kansas City and western Missouri. Muck Rack
+Newspaper;Springfield News-Leader;Springfield;Covers news in Springfield and southwestern Missouri. Muck Rack
+Newspaper;Columbia Daily Tribune;Columbia;Focuses on news in Columbia and central Missouri. Muck Rack
+Newspaper;Jefferson City News Tribune;Jefferson City;Serves Jefferson City and the surrounding areas. Muck Rack
+Television;KSDK 5 On Your Side;St. Louis;NBC affiliate providing news, weather, and sports for St. Louis and eastern Missouri. Wikipedia
+Television;KMBC 9 News;Kansas City;ABC affiliate offering local news coverage for Kansas City and surrounding areas. Wikipedia
+Television;KYTV 3;Springfield;NBC affiliate covering news in Springfield and southwestern Missouri. Wikipedia
+Television;KOMU 8;Columbia;NBC affiliate providing news coverage for Columbia and central Missouri. Wikipedia
+Television;KRCG 13;Jefferson City;CBS affiliate offering news and weather updates for Jefferson City and mid-Missouri. Wikipedia
+Radio;KMOX 1120 AM;St. Louis;News/talk radio station covering St. Louis and eastern Missouri. Muck Rack
+Radio;KCUR 89.3 FM;Kansas City;NPR affiliate offering news and cultural programming across Kansas City and western Missouri. Muck Rack
+Radio;KSMU 91.1 FM;Springfield;Public radio station providing news and information for Springfield and southwestern Missouri. Muck Rack
+Radio;KBIA 91.3 FM;Columbia;NPR affiliate serving Columbia and central Missouri. Muck Rack
+Radio;KWOS 950 AM;Jefferson City;News/talk radio station covering Jefferson City and mid-Missouri. Muck Rack
+Digital;STLtoday.com;St. Louis;Online platform offering news, entertainment, and sports coverage for St. Louis. Muck Rack
+Digital;KansasCity.com;Kansas City;Digital news outlet covering Kansas City news and events. Muck Rack
+Digital;SpringfieldNews-Leader.com;Springfield;Online publication focusing on news in Springfield and southwestern Missouri. Muck Rack
+Digital;ColumbiaMissourian.com;Columbia;Digital platform offering news for Columbia and central Missouri. Muck Rack
+Digital;NewsTribune.com;Jefferson City;Online news outlet covering Jefferson City and the surrounding areas. Muck Rack
+Newspaper;Billings Gazette;Billings;Major daily newspaper covering Billings and eastern Montana. Montana Free Press
+Newspaper;Missoulian;Missoula;Provides news coverage for Missoula and western Montana. Montana Free Press
+Newspaper;Great Falls Tribune;Great Falls;Covers news in Great Falls and north-central Montana. Montana Free Press
+Newspaper;Helena Independent Record;Helena;Focuses on news in Helena and the surrounding areas. Montana Free Press
+Newspaper;Bozeman Daily Chronicle;Bozeman;Serves Bozeman and the Gallatin Valley region. Montana Free Press
+Television;KTVQ (Q2 News);Billings;CBS affiliate providing news, weather, and sports for Billings and eastern Montana. KTVQ
+Television;KPAX News;Missoula;CBS affiliate offering local news coverage for Missoula and western Montana. KPAX
+Television;KRTV News;Great Falls;CBS affiliate covering news in Great Falls and north-central Montana. Montana Free Press
+Television;KXLH News;Helena;CBS affiliate providing news coverage for Helena and the surrounding areas. KXLH
+Television;KBZK News;Bozeman;CBS affiliate offering news and weather updates for Bozeman and southwestern Montana. KBZK
+Radio;Montana Public Radio (MTPR);Statewide;NPR affiliate offering news and cultural programming across Montana. Montana Public Radio
+Radio;Northern Broadcasting System;Billings;Network providing news, agriculture, and sports programming across Montana. Montana Free Press
+Radio;KGVO 1290 AM;Missoula;News/talk radio station covering Missoula and western Montana. Montana Free Press
+Radio;KMON 560 AM;Great Falls;News/talk radio station serving Great Falls and north-central Montana. Montana Free Press
+Radio;KMTX 950 AM;Helena;News/talk radio station covering Helena and the surrounding areas. Montana Free Press
+Digital;Montana Free Press;Statewide;Nonprofit news organization focusing on in-depth reporting in Montana. Montana Free Press
+Digital;Missoula Current;Missoula;Online news outlet covering Missoula and western Montana. Montana Free Press
+Digital;Big Sky Headlines;Statewide;Digital platform offering news and opinion pieces relevant to Montana. Montana Free Press
+Digital;Flathead Beacon;Kalispell;Online publication focusing on news in Kalispell and the Flathead Valley. Montana Free Press
+Digital;Yellowstone County News;Billings;Digital news outlet covering Billings and Yellowstone County. Montana Free Press
+Newspaper;Omaha World-Herald;Omaha;Major daily newspaper covering Omaha and statewide news. Wikipedia
+Newspaper;Lincoln Journal Star;Lincoln;Provides news coverage for Lincoln and southeastern Nebraska. Nebraska Public Media
+Newspaper;The Grand Island Independent;Grand Island;Covers news in Grand Island and central Nebraska. Nebraska Public Media
+Newspaper;Kearney Hub;Kearney;Focuses on news in Kearney and the surrounding areas. Nebraska Public Media
+Newspaper;Scottsbluff Star-Herald;Scottsbluff;Serves Scottsbluff and the Nebraska Panhandle region. Nebraska Public Media
+Television;KETV NewsWatch 7;Omaha;ABC affiliate providing news, weather, and sports for Omaha and eastern Nebraska. KETV
+Television;WOWT 6 News;Omaha;NBC affiliate offering local news coverage for Omaha and surrounding areas. Nebraska Public Media
+Television;KMTV 3 News Now;Omaha;CBS affiliate covering news in Omaha and eastern Nebraska. 3 News Now
+Television;KLKN-TV Channel 8;Lincoln;ABC affiliate providing news coverage for Lincoln and southeastern Nebraska. KLKN TV
+Television;KHGI Nebraska TV;Kearney;ABC affiliate offering news and weather updates for central and southwestern Nebraska. Nebraska.tv
+Radio;Nebraska Public Media;Statewide;NPR affiliate offering news and cultural programming across Nebraska. Nebraska Public Media
+Radio;KFAB 1110 AM;Omaha;News/talk radio station covering Omaha and eastern Nebraska. Nebraska Public Media
+Radio;KLIN 1400 AM;Lincoln;News/talk radio station serving Lincoln and southeastern Nebraska. Nebraska Public Media
+Radio;KRVN 880 AM;Lexington;Rural radio network providing news and agricultural programming across Nebraska. Nebraska Public Media
+Radio;NET Radio;Statewide;Public radio network offering news and cultural content throughout Nebraska. Nebraska Public Media
+Digital;Omaha.com;Omaha;Online platform offering news, entertainment, and sports coverage for Omaha. Nebraska Public Media
+Digital;JournalStar.com;Lincoln;Digital news outlet covering Lincoln news and events. Nebraska Public Media
+Digital;Nebraska Examiner;Statewide;Nonprofit news organization focusing on in-depth reporting in Nebraska. Nebraska Public Media
+Digital;Flatwater Free Press;Statewide;Online publication dedicated to investigative journalism in Nebraska. Nebraska Public Media
+Digital;News Channel Nebraska;Statewide;Digital platform offering news and information across Nebraska. News Channel Nebraska
+Newspaper;Las Vegas Review-Journal;Las Vegas;Major daily newspaper covering Las Vegas and statewide news. Review Journal
+Newspaper;Reno Gazette-Journal;Reno;Provides news coverage for Reno and northern Nevada. Las Vegas Sun
+Newspaper;Las Vegas Sun;Las Vegas;Daily newspaper serving Las Vegas and the surrounding areas. Las Vegas Sun
+Newspaper;Nevada Appeal;Carson City;Covers news in Carson City and western Nevada. Las Vegas Sun
+Newspaper;Elko Daily Free Press;Elko;Focuses on news in Elko and northeastern Nevada. Las Vegas Sun
+Television;KLAS-TV (8 News Now);Las Vegas;CBS affiliate providing news, weather, and sports for Las Vegas and southern Nevada. 8 News Now
+Television;KTNV-TV (Channel 13);Las Vegas;ABC affiliate offering local news coverage for Las Vegas and surrounding areas. KTNV
+Television;KSNV (News 3);Las Vegas;NBC affiliate covering news in Las Vegas and southern Nevada. News 3 LV
+Television;KRNV (News 4);Reno;NBC affiliate providing news coverage for Reno and northern Nevada. Las Vegas Sun
+Television;KOLO-TV (Channel 8);Reno;ABC affiliate offering news and weather updates for Reno and northern Nevada. Las Vegas Sun
+Radio;KNPR 88.9 FM;Las Vegas;NPR affiliate offering news and cultural programming across southern Nevada. Las Vegas Sun
+Radio;KUNR 88.7 FM;Reno;NPR affiliate serving Reno and northern Nevada. Las Vegas Sun
+Radio;KXNT 840 AM;Las Vegas;News/talk radio station covering Las Vegas and southern Nevada. Las Vegas Sun
+Radio;KKOH 780 AM;Reno;News/talk radio station serving Reno and northern Nevada. Las Vegas Sun
+Radio;KCEP 88.1 FM;Las Vegas;Urban contemporary radio station covering Las Vegas and surrounding areas. Las Vegas Sun
+Digital;Nevada Independent;Statewide;Nonprofit news organization focusing on in-depth reporting in Nevada. Las Vegas Sun
+Digital;This Is Reno;Reno;Online news outlet covering Reno and northern Nevada. This Is Reno
+Digital;Las Vegas Weekly;Las Vegas;Digital publication focusing on news, entertainment, and culture in Las Vegas. Las Vegas Sun
+Digital;Carson Now;Carson City;Online platform offering news and information for Carson City and surrounding areas. Las Vegas Sun
+Digital;Elko Daily Free Press Online;Elko;Digital news outlet covering Elko and northeastern Nevada. Las Vegas Sun
+Newspaper;The Union Leader;Manchester;Major daily newspaper covering Manchester and statewide news. Agility PR
+Newspaper;Concord Monitor;Concord;Daily newspaper serving Concord and central New Hampshire. Concord Monitor
+Newspaper;The Keene Sentinel;Keene;Covers news in Keene and the Monadnock region. Agility PR
+Newspaper;Portsmouth Herald;Portsmouth;Focuses on news in Portsmouth and the Seacoast area. Agility PR
+Newspaper;The Telegraph;Nashua;Serves Nashua and southern New Hampshire. Agility PR
+Television;WMUR-TV (Channel 9);Manchester;ABC affiliate providing news, weather, and sports for New Hampshire. WMUR
+Television;NH1 News;Concord;Offers local news coverage for New Hampshire. The Pulse of NH
+Television;WBIN-TV;Derry;Independent station covering news in southern New Hampshire. Agility PR
+Television;WENH-TV (NH PBS);Durham;Public television station offering educational and cultural programming. Agility PR
+Television;WBTS-CD (NBC Boston);Boston, MA;NBC affiliate serving parts of southern New Hampshire. Agility PR
+Radio;New Hampshire Public Radio (NHPR);Statewide;NPR affiliate offering news and cultural programming across New Hampshire. New Hampshire Public Radio
+Radio;WZID 95.7 FM;Manchester;Adult contemporary radio station covering Manchester and surrounding areas. Agility PR
+Radio;WOKQ 97.5 FM;Dover;Country music station serving the Seacoast region. Agility PR
+Radio;WGIR 610 AM;Manchester;News/talk radio station covering Manchester and central New Hampshire. Agility PR
+Radio;WNHN 94.7 FM;Concord;Community radio station offering diverse programming. Agility PR
+Digital;Patch New Hampshire;Statewide;Online platform offering hyperlocal news for various New Hampshire communities. Patch
+Digital;InDepthNH.org;Statewide;Nonprofit news outlet focusing on investigative journalism in New Hampshire. Agility PR
+Digital;Manchester Ink Link;Manchester;Online news source covering Manchester and surrounding areas. Agility PR
+Digital;Seacoast Online;Portsmouth;Digital platform offering news for Portsmouth and the Seacoast region. Agility PR
+Digital;NH Business Review;Statewide;Provides business news and analysis for New Hampshire. Agility PR
+Newspaper;The Star-Ledger;Newark;New Jersey's largest daily newspaper, covering statewide news. New York Post
+Newspaper;The Record;Bergen County;Daily newspaper serving Bergen County and northern New Jersey. Agility PR
+Newspaper;Courier-Post;Cherry Hill;Daily newspaper covering South Jersey, including Camden and Burlington counties. Agility PR
+Newspaper;Asbury Park Press;Neptune;Daily newspaper serving the Jersey Shore region. Agility PR
+Newspaper;The Times of Trenton;Trenton;Daily newspaper covering Trenton and central New Jersey. Agility PR
+Television;News 12 New Jersey;Statewide;24-hour cable news channel providing statewide news coverage. News 12 New Jersey
+Television;NJTV News;Statewide;Public television network offering news and public affairs programming. Agility PR
+Television;CBS New York;New York, NY;CBS affiliate covering New York City and northern New Jersey. CBS News
+Television;ABC 7 Eyewitness News;New York, NY;ABC affiliate providing news coverage for New York City and northern New Jersey. Agility PR
+Television;NBC 4 New York;New York, NY;NBC affiliate covering New York City and northern New Jersey. Agility PR
+Radio;WBGO 88.3 FM;Newark;Public radio station specializing in jazz and news programming. Agility PR
+Radio;New Jersey 101.5 FM;Trenton;Talk radio station covering news, traffic, and weather across New Jersey. Agility PR
+Radio;WNYC 93.9 FM;New York, NY;Public radio station offering news and cultural programming, serving parts of New Jersey. Agility PR
+Radio;WCBS Newsradio 880;New York, NY;All-news radio station covering New York City and northern New Jersey. Agility PR
+Radio;WINS 1010 AM;New York, NY;All-news radio station serving New York City and northern New Jersey. Agility PR
+Digital;NJ.com;Statewide;Online news platform affiliated with The Star-Ledger and other local newspapers. Wikipedia
+Digital;TAPinto;Statewide;Network of hyperlocal news websites covering various New Jersey communities. Wikipedia
+Digital;RLS Media;Newark;Online news outlet focusing on breaking news and community stories in New Jersey. RLS Media
+Digital;Patch New Jersey;Statewide;Online platform offering hyperlocal news for various New Jersey communities. Agility PR
+Digital;Insider NJ;Statewide;Digital news outlet covering New Jersey politics and government. Agility PR
+Newspaper;Albuquerque Journal;Albuquerque;New Mexico's largest daily newspaper, covering Albuquerque and statewide news.
+Newspaper;Santa Fe New Mexican;Santa Fe;Daily newspaper serving Santa Fe and northern New Mexico.
+Newspaper;Las Cruces Sun-News;Las Cruces;Daily newspaper covering Las Cruces and southern New Mexico.
+Newspaper;The Taos News;Taos;Weekly newspaper focusing on news in Taos and surrounding areas.
+Newspaper;Roswell Daily Record;Roswell;Daily newspaper serving Roswell and southeastern New Mexico.
+Television;KRQE News 13;Albuquerque;CBS affiliate providing news, weather, and sports for Albuquerque and central New Mexico. KRQE
+Television;KOB 4;Albuquerque;NBC affiliate offering local news coverage for Albuquerque and northern New Mexico. KOB 4
+Television;KOAT Action 7 News;Albuquerque;ABC affiliate covering news in Albuquerque and central New Mexico. KOAT
+Television;KRWG Public Media;Las Cruces;PBS and NPR affiliate serving southern New Mexico and El Paso, Texas. KRWG
+Television;KENW-TV;Portales;PBS member station providing educational programming for eastern New Mexico.
+Radio;KUNM 89.9 FM;Albuquerque;Public radio station offering news and cultural programming across central and northern New Mexico. KUFM
+Radio;KSFR 101.1 FM;Santa Fe;Public radio station serving Santa Fe and northern New Mexico.
+Radio;KANW 89.1 FM;Albuquerque;Public radio station focusing on New Mexico music and news.
+Radio;KGLP 91.7 FM;Gallup;Public radio station serving Gallup and western New Mexico.
+Radio;KEDP 91.1 FM;Las Vegas;Public radio station affiliated with New Mexico Highlands University.
+Digital;New Mexico In Depth;Statewide;Nonprofit news organization focusing on investigative journalism in New Mexico.
+Digital;NM Political Report;Statewide;Online news outlet covering politics and government in New Mexico.
+Digital;The Paper.;Albuquerque;Alternative weekly newspaper offering news and cultural coverage for Albuquerque.
+Digital;Source New Mexico;Statewide;Digital news outlet focusing on in-depth reporting and analysis.
+Digital;Santa Fe Reporter;Santa Fe;Alternative weekly newspaper covering news, arts, and culture in Santa Fe.
+Newspaper;The New York Times;New York City;Major daily newspaper with national and international coverage. Muck Rack
+Newspaper;New York Post;New York City;Daily newspaper known for its sensationalist headlines and coverage. Muck Rack
+Newspaper;Daily News;New York City;Daily tabloid newspaper covering local and national news. Muck Rack
+Newspaper;Newsday;Melville;Daily newspaper serving Long Island and the New York metropolitan area. Muck Rack
+Newspaper;The Wall Street Journal;New York City;Daily newspaper focusing on business and financial news. Muck Rack
+Television;WNBC (NBC 4 New York);New York City;NBC-owned station providing local news, weather, and sports. NBC New York
+Television;WABC-TV (ABC 7);New York City;ABC-owned station offering local news and programming. Agility PR
+Television;WCBS-TV (CBS 2);New York City;CBS-owned station delivering local news and entertainment. Agility PR
+Television;WNYW (FOX 5);New York City;FOX-owned station covering local news and events. Fox 5 New York
+Television;NY1;New York City;24-hour news channel focusing on New York City news. Agility PR
+Radio;WNYC 93.9 FM / 820 AM;New York City;Public radio station offering news and cultural programming. Agility PR
+Radio;WCBS Newsradio 880;New York City;All-news radio station providing 24/7 news coverage. Agility PR
+Radio;WINS 1010 AM;New York City;All-news radio station known for its continuous news updates. Agility PR
+Radio;WOR 710 AM;New York City;Talk radio station featuring news and talk shows. Agility PR
+Radio;WFAN 660 AM / 101.9 FM;New York City;Sports radio station covering local and national sports news. Agility PR
+Digital;Gothamist;New York City;Online news outlet covering New York City news, arts, and events. Gothamist
+Digital;The City;New York City;Nonprofit news organization focusing on investigative journalism in NYC. The City
+Digital;amNewYork;New York City;Digital news platform offering local news and entertainment. AMNY
+Digital;Patch New York;Statewide;Network of hyperlocal news websites covering various New York communities. Agility PR
+Digital;City & State New York;New York City;Digital news outlet covering New York politics and policy. City & State NY
+Newspaper;The News & Observer;Raleigh;Major daily newspaper covering Raleigh and the Triangle area. News Observer
+Newspaper;The Charlotte Observer;Charlotte;Daily newspaper serving Charlotte and surrounding regions. ABC11
+Newspaper;The Winston-Salem Journal;Winston-Salem;Provides news coverage for Winston-Salem and the Piedmont Triad. ABC11
+Newspaper;The Fayetteville Observer;Fayetteville;Covers news in Fayetteville and southeastern North Carolina. ABC11
+Newspaper;The Asheville Citizen-Times;Asheville;Focuses on news in Asheville and western North Carolina. ABC11
+Television;WRAL-TV;Raleigh;NBC affiliate providing news, weather, and sports for Raleigh and the Triangle. WRAL
+Television;WBTV;Charlotte;CBS affiliate offering local news coverage for Charlotte and surrounding areas. ABC11
+Television;WXII 12 News;Winston-Salem;NBC affiliate covering news in Winston-Salem and the Piedmont Triad. ABC11
+Television;WECT;Wilmington;NBC affiliate providing news coverage for Wilmington and southeastern North Carolina. ABC11
+Television;WLOS;Asheville;ABC affiliate offering news and weather updates for Asheville and western North Carolina. WLOS
+Radio;WUNC 91.5 FM;Chapel Hill;NPR affiliate offering news and cultural programming across central and eastern North Carolina. ABC11
+Radio;WFAE 90.7 FM;Charlotte;NPR affiliate serving Charlotte and surrounding areas. ABC11
+Radio;WFDD 88.5 FM;Winston-Salem;NPR affiliate covering Winston-Salem and the Piedmont Triad. ABC11
+Radio;WHQR 91.3 FM;Wilmington;NPR affiliate providing news and cultural content for Wilmington and southeastern North Carolina. ABC11
+Radio;WCQS 88.1 FM;Asheville;NPR affiliate serving Asheville and western North Carolina. ABC11
+Digital;North Carolina Health News;Statewide;Nonprofit news organization focusing on health issues in North Carolina. ABC11
+Digital;Carolina Public Press;Statewide;Online news outlet providing in-depth, investigative reporting on issues affecting North Carolina. ABC11
+Digital;NC Policy Watch;Statewide;Digital platform offering news and analysis on public policy in North Carolina. ABC11
+Digital;The Assembly;Statewide;Online publication focusing on long-form journalism and analysis of North Carolina's people, institutions, and culture. ABC11
+Digital;EdNC;Statewide;Digital news outlet covering education policy and practice in North Carolina. ABC11
+Newspaper;The Bismarck Tribune;Bismarck;Major daily newspaper covering Bismarck and central North Dakota. KVRR
+Newspaper;The Forum of Fargo-Moorhead;Fargo;Daily newspaper serving Fargo and eastern North Dakota. KVRR
+Newspaper;Grand Forks Herald;Grand Forks;Daily newspaper covering Grand Forks and northeastern North Dakota. Grand Forks Herald
+Newspaper;Minot Daily News;Minot;Daily newspaper serving Minot and northwestern North Dakota. KVRR
+Newspaper;Williston Herald;Williston;Daily newspaper covering Williston and the surrounding region. KVRR
+Television;KX News;Bismarck/Minot;CBS affiliate providing news, weather, and sports for central and western North Dakota. KXNET
+Television;WDAY-TV;Fargo;ABC affiliate offering local news coverage for Fargo and eastern North Dakota. KVRR
+Television;KVLY-TV;Fargo;NBC affiliate covering news in Fargo and eastern North Dakota. KVRR
+Television;KFYR-TV;Bismarck;NBC affiliate providing news coverage for Bismarck and central North Dakota. KVRR
+Television;KVRR;Fargo;FOX affiliate offering news and weather updates for Fargo and eastern North Dakota. KVRR
+Radio;Prairie Public Radio;Statewide;NPR affiliate offering news and cultural programming across North Dakota. Prairie Public News
+Radio;KFGO 790 AM;Fargo;News/talk radio station covering Fargo and eastern North Dakota. KVRR
+Radio;KFYR 550 AM;Bismarck;News/talk radio station serving Bismarck and central North Dakota. KVRR
+Radio;KCJB 910 AM;Minot;News/talk radio station covering Minot and northwestern North Dakota. KVRR
+Radio;KNOX 1310 AM;Grand Forks;News/talk radio station serving Grand Forks and northeastern North Dakota. KVRR
+Digital;InForum;Fargo;Online platform offering news, entertainment, and sports coverage for Fargo and eastern North Dakota. KVRR
+Digital;The Dickinson Press;Dickinson;Digital news outlet covering Dickinson and southwestern North Dakota. KVRR
+Digital;The Jamestown Sun;Jamestown;Online news source serving Jamestown and central North Dakota. KVRR
+Digital;The Minot Daily News Online;Minot;Digital platform offering news for Minot and northwestern North Dakota. KVRR
+Digital;The Williston Herald Online;Williston;Online news outlet covering Williston and the surrounding region. KVRR
+Newspaper;The Plain Dealer;Cleveland;Major daily newspaper covering Cleveland and Northeast Ohio. Agility PR
+Newspaper;The Columbus Dispatch;Columbus;Daily newspaper serving Columbus and central Ohio. Agility PR
+Newspaper;The Cincinnati Enquirer;Cincinnati;Daily newspaper covering Cincinnati and Southwest Ohio. Agility PR
+Newspaper;Dayton Daily News;Dayton;Daily newspaper serving Dayton and the Miami Valley region. Agility PR
+Newspaper;Akron Beacon Journal;Akron;Daily newspaper covering Akron and Summit County. Agility PR
+Television;WKYC Channel 3;Cleveland;NBC affiliate providing news, weather, and sports for Northeast Ohio. Muck Rack
+Television;WBNS-10TV;Columbus;CBS affiliate offering local news coverage for Columbus and central Ohio. Muck Rack
+Television;WLWT News 5;Cincinnati;NBC affiliate covering news in Cincinnati and Southwest Ohio. Muck Rack
+Television;WHIO-TV;Dayton;CBS affiliate providing news coverage for Dayton and the Miami Valley. Muck Rack
+Television;WDTN 2 NEWS;Dayton;NBC affiliate offering news and weather updates for Dayton and surrounding areas. Muck Rack
+Radio;WOSU 89.7 FM;Columbus;NPR affiliate offering news and cultural programming across central Ohio. Muck Rack
+Radio;WVXU 91.7 FM;Cincinnati;NPR affiliate serving Cincinnati and Southwest Ohio. Muck Rack
+Radio;WCPN 90.3 FM;Cleveland;NPR affiliate covering Cleveland and Northeast Ohio. Muck Rack
+Radio;WYSO 91.3 FM;Yellow Springs;NPR affiliate serving the Miami Valley region. Muck Rack
+Radio;WKSU 89.7 FM;Kent;NPR affiliate providing news and cultural content for Northeast Ohio. Muck Rack
+Digital;Cleveland.com;Cleveland;Online platform offering news, entertainment, and sports coverage for Northeast Ohio. Muck Rack
+Digital;Cincinnati.com;Cincinnati;Digital news outlet covering Cincinnati and Southwest Ohio. Muck Rack
+Digital;Columbus Underground;Columbus;Online news source focusing on Columbus events, culture, and news. Muck Rack
+Digital;Dayton.com;Dayton;Digital platform offering news and entertainment for Dayton and the Miami Valley. Muck Rack
+Digital;Akron Beacon Journal Online;Akron;Digital news outlet covering Akron and Summit County. Muck Rack
+Newspaper;The Oklahoman;Oklahoma City;Major daily newspaper covering Oklahoma City and statewide news. Wikipedia
+Newspaper;Tulsa World;Tulsa;Daily newspaper serving Tulsa and northeastern Oklahoma. Wikipedia
+Newspaper;The Norman Transcript;Norman;Daily newspaper covering Norman and surrounding areas. Wikipedia
+Newspaper;The Lawton Constitution;Lawton;Daily newspaper serving Lawton and southwestern Oklahoma. Wikipedia
+Newspaper;The Stillwater News Press;Stillwater;Daily newspaper covering Stillwater and Payne County. Wikipedia
+Television;KFOR-TV (NBC 4);Oklahoma City;NBC affiliate providing news, weather, and sports for central Oklahoma. KFOR
+Television;KOCO-TV (ABC 5);Oklahoma City;ABC affiliate offering local news coverage for Oklahoma City and surrounding areas. KOCO News
+Television;KWTV-DT (CBS 9);Oklahoma City;CBS affiliate covering news in Oklahoma City and central Oklahoma. News 9
+Television;KOKH-TV (FOX 25);Oklahoma City;FOX affiliate providing news coverage for Oklahoma City and central Oklahoma. OKC FOX
+Television;KTUL-TV (ABC 8);Tulsa;ABC affiliate offering news and weather updates for Tulsa and northeastern Oklahoma. KFOR
+Radio;KOSU 91.7 FM;Stillwater;NPR affiliate offering news and cultural programming across central and northern Oklahoma. Kosu
+Radio;KGOU 106.3 FM;Norman;NPR affiliate serving Norman and central Oklahoma. KFOR
+Radio;KOMA 92.5 FM;Oklahoma City;Classic hits radio station covering Oklahoma City and surrounding areas. KFOR
+Radio;KRMG 102.3 FM / 740 AM;Tulsa;News/talk radio station serving Tulsa and northeastern Oklahoma. KFOR
+Radio;KJYO 102.7 FM;Oklahoma City;Top 40 radio station covering Oklahoma City and central Oklahoma. KFOR
+Digital;NonDoc;Oklahoma City;Online news outlet focusing on investigative journalism and in-depth reporting in Oklahoma. KFOR
+Digital;Oklahoma Watch;Statewide;Nonprofit news organization providing investigative reporting on public policy issues in Oklahoma. KFOR
+Digital;The Frontier;Tulsa;Digital news outlet offering investigative journalism and enterprise reporting in Oklahoma. KFOR
+Digital;Tulsa Today;Tulsa;Online news source covering local news, events, and commentary in Tulsa. KFOR
+Digital;Red Dirt Report;Oklahoma City;Digital news outlet focusing on Oklahoma news, culture, and opinion pieces. KFOR
+Newspaper;The Oregonian;Portland;Oregon's largest daily newspaper, covering statewide news. Wikipedia
+Newspaper;The Register-Guard;Eugene;Daily newspaper serving Eugene and the southern Willamette Valley.
+Newspaper;Statesman Journal;Salem;Daily newspaper covering Salem and the mid-Willamette Valley.
+Newspaper;Mail Tribune;Medford;Daily newspaper serving Medford and southern Oregon.
+Newspaper;East Oregonian;Pendleton;Daily newspaper covering Pendleton and eastern Oregon.
+Television;KGW News (NBC 8);Portland;NBC affiliate providing news, weather, and sports for Portland and surrounding areas. KGW
+Television;KOIN 6 News (CBS 6);Portland;CBS affiliate offering local news coverage for Portland and southwest Washington. Koin
+Television;KATU News (ABC 2);Portland;ABC affiliate covering news in Portland and the Pacific Northwest. Katu
+Television;KOBI-TV NBC5;Medford;NBC affiliate providing news coverage for Medford and southern Oregon. KOBI 5
+Television;KEZI 9 News (ABC 9);Eugene;ABC affiliate offering news and weather updates for Eugene and western Oregon.
+Radio;Oregon Public Broadcasting;Statewide;NPR affiliate offering news and cultural programming across Oregon. OPB
+Radio;KOPB-FM 91.5;Portland;OPB's primary radio station serving the Portland area. OPB
+Radio;KLCC 89.7 FM;Eugene;NPR affiliate serving Eugene and the southern Willamette Valley.
+Radio;KBOO 90.7 FM;Portland;Community radio station offering diverse programming in Portland.
+Radio;KOPB-AM 1600;Eugene;OPB's AM station serving the Eugene area. OPB
+Digital;OregonLive.com;Statewide;Online platform offering news, entertainment, and sports coverage for Oregon. Wikipedia
+Digital;Willamette Week;Portland;Alternative weekly newspaper and online outlet covering Portland news and culture.
+Digital;Portland Mercury;Portland;Alternative weekly newspaper and online platform focusing on Portland news and events.
+Digital;Salem Reporter;Salem;Online news outlet covering local news in Salem and surrounding areas.
+Digital;Eugene Weekly;Eugene;Alternative weekly newspaper and online source for Eugene news and culture.
+Newspaper;The Philadelphia Inquirer;Philadelphia;Major daily newspaper covering Philadelphia and the surrounding region. Inquirer
+Newspaper;Pittsburgh Post-Gazette;Pittsburgh;Daily newspaper serving Pittsburgh and western Pennsylvania.
+Newspaper;The Morning Call;Allentown;Daily newspaper covering the Lehigh Valley and eastern Pennsylvania.
+Newspaper;The Patriot-News;Harrisburg;Daily newspaper serving Harrisburg and central Pennsylvania.
+Newspaper;The Times-Tribune;Scranton;Daily newspaper covering Scranton and northeastern Pennsylvania.
+Television;WPVI-TV (6ABC);Philadelphia;ABC affiliate providing news, weather, and sports for the Philadelphia area. 6ABC
+Television;KDKA-TV (CBS 2);Pittsburgh;CBS affiliate offering local news coverage for Pittsburgh and western Pennsylvania.
+Television;WHTM-TV (ABC 27);Harrisburg;ABC affiliate covering news in Harrisburg and central Pennsylvania.
+Television;WNEP-TV (ABC 16);Scranton;ABC affiliate providing news coverage for Scranton and northeastern Pennsylvania.
+Television;WFMZ-TV (69 News);Allentown;Independent station offering news and weather updates for the Lehigh Valley.
+Radio;WHYY-FM 90.9;Philadelphia;NPR affiliate offering news and cultural programming across the Philadelphia region.
+Radio;KDKA 1020 AM;Pittsburgh;News/talk radio station serving Pittsburgh and western Pennsylvania.
+Radio;WITF-FM 89.5;Harrisburg;NPR affiliate covering Harrisburg and central Pennsylvania.
+Radio;WVIA-FM 89.9;Scranton;NPR affiliate providing news and cultural content for Scranton and northeastern Pennsylvania.
+Radio;WDIY 88.1 FM;Allentown;NPR affiliate serving the Lehigh Valley and eastern Pennsylvania.
+Digital;Spotlight PA;Statewide;Nonprofit newsroom dedicated to investigative journalism across Pennsylvania. Spotlight PA
+Digital;PennLive;Harrisburg;Online news platform offering news, sports, and entertainment for central Pennsylvania.
+Digital;Billy Penn;Philadelphia;Digital news outlet covering Philadelphia news and events.
+Digital;The Incline;Pittsburgh;Online publication focusing on Pittsburgh news and culture.
+Digital;LehighValleyLive.com;Allentown;Digital news source covering the Lehigh Valley and eastern Pennsylvania.
+Newspaper;The Providence Journal;Providence;Rhode Island's largest daily newspaper, covering statewide news. Wikipedia
+Newspaper;Warwick Beacon;Warwick;Weekly newspaper serving the Warwick area. Warwick Online
+Newspaper;East Bay Newspapers;Bristol;Publisher of several weekly newspapers covering the East Bay region. Wikipedia
+Television;WPRI 12 News;Providence;CBS affiliate providing news, weather, and sports for Rhode Island and Southeastern Massachusetts. WPRI
+Television;NBC 10 WJAR;Providence;NBC affiliate offering local news coverage for Providence and surrounding communities. Turn to 10
+Television;ABC6 News;Providence;ABC affiliate covering news in Providence and New Bedford, MA. ABC6
+Radio;WPRO 630 AM / 99.7 FM;Providence;News/talk radio station serving the Providence area.
+Radio;Rhode Island Public Radio;Providence;NPR affiliate offering news and cultural programming across Rhode Island.
+Radio;WHJJ 920 AM;Providence;News/talk radio station covering Providence and surrounding areas.
+Digital;GoLocalProv;Providence;Online news outlet focusing on Rhode Island news, politics, and lifestyle.
+Digital;Patch Rhode Island;Statewide;Network of hyperlocal news websites covering various Rhode Island communities.
+Newspaper;The State;Columbia;Daily newspaper covering Columbia and the Midlands region. The State
+Newspaper;The Post and Courier;Charleston;Daily newspaper serving Charleston and the Lowcountry. South Carolina Public Radio
+Newspaper;The Greenville News;Greenville;Daily newspaper covering Greenville and the Upstate region. South Carolina Public Radio
+Newspaper;The Sun News;Myrtle Beach;Daily newspaper serving Myrtle Beach and the Grand Strand. South Carolina Public Radio
+Newspaper;The Herald;Rock Hill;Daily newspaper covering Rock Hill and York County. Herald Online
+Television;WLTX 19;Columbia;CBS affiliate providing news, weather, and sports for Columbia and the Midlands. WLTX
+Television;WIS News 10;Columbia;NBC affiliate offering local news coverage for Columbia and surrounding areas. South Carolina Public Radio
+Television;WCSC Live 5 News;Charleston;CBS affiliate covering news in Charleston and the Lowcountry. South Carolina Public Radio
+Television;WYFF 4;Greenville;NBC affiliate providing news coverage for Greenville and the Upstate. South Carolina Public Radio
+Television;WPDE ABC 15;Myrtle Beach;ABC affiliate offering news and weather updates for Myrtle Beach and the Pee Dee region. South Carolina Public Radio
+Radio;South Carolina Public Radio;Statewide;NPR affiliate offering news and cultural programming across South Carolina. South Carolina Public Radio
+Radio;WVOC 560 AM;Columbia;News/talk radio station serving Columbia and the Midlands. South Carolina Public Radio
+Radio;WBT 1110 AM;Charlotte, NC;News/talk radio station covering parts of South Carolina, including Rock Hill and York County. South Carolina Public Radio
+Radio;WRNN 99.5 FM;Myrtle Beach;News/talk radio station serving Myrtle Beach and the Grand Strand. South Carolina Public Radio
+Radio;WORD 106.3 FM;Greenville;News/talk radio station covering Greenville and the Upstate. South Carolina Public Radio
+Digital;FITSNews;Statewide;Online news outlet focusing on South Carolina politics and current events. South Carolina Public Radio
+Digital;Charleston City Paper;Charleston;Alternative weekly newspaper and online platform covering Charleston news and culture. South Carolina Public Radio
+Digital;Greenville Journal;Greenville;Weekly newspaper and online source for Greenville news and events. South Carolina Public Radio
+Digital;MyrtleBeachOnline.com;Myrtle Beach;Digital platform offering news, entertainment, and sports coverage for Myrtle Beach and the Grand Strand. South Carolina Public Radio
+Digital;ColaDaily;Columbia;Online news outlet covering Columbia and the Midlands region. South Carolina Public Radio
+Newspaper;Argus Leader;Sioux Falls;The largest daily newspaper in South Dakota, covering statewide news. Wikipedia
+Newspaper;Rapid City Journal;Rapid City;Daily newspaper serving Rapid City and the Black Hills region.
+Newspaper;Aberdeen American News;Aberdeen;Daily newspaper covering Aberdeen and northeastern South Dakota.
+Newspaper;Watertown Public Opinion;Watertown;Daily newspaper serving Watertown and surrounding areas.
+Newspaper;Brookings Register;Brookings;Daily newspaper covering Brookings and the surrounding community. Brookings Register
+Television;KELOLAND Media Group;Sioux Falls;CBS affiliate providing news, weather, and sports for eastern South Dakota. KELOLAND News
+Television;KSFY News;Sioux Falls;ABC affiliate offering local news coverage for Sioux Falls and surrounding areas.
+Television;KDLT News;Sioux Falls;NBC affiliate covering news in Sioux Falls and eastern South Dakota.
+Television;KOTA Territory News;Rapid City;ABC affiliate providing news coverage for Rapid City and the Black Hills.
+Television;KNBN NewsCenter1;Rapid City;NBC affiliate offering news and weather updates for Rapid City and western South Dakota.
+Radio;SDPB Radio;Statewide;NPR affiliate offering news and cultural programming across South Dakota. SDPB
+Radio;KELO-AM 1320;Sioux Falls;News/talk radio station serving Sioux Falls and eastern South Dakota. Kelo
+Radio;KOTA-AM 1380;Rapid City;News/talk radio station covering Rapid City and the Black Hills region.
+Radio;KSOO-AM 1140;Sioux Falls;News/talk radio station serving Sioux Falls and surrounding areas.
+Radio;KORN-AM 1490;Mitchell;News/talk radio station covering Mitchell and central South Dakota.
+Digital;Sioux Falls Live;Sioux Falls;Online news outlet focusing on Sioux Falls news, weather, and events. Sioux Falls Live
+Digital;South Dakota News Watch;Statewide;Nonprofit news organization providing investigative reporting on public policy issues in South Dakota.
+Digital;KELOLAND.com;Sioux Falls;Digital platform offering news, weather, and sports coverage for KELOLAND Media Group. KELOLAND News
+Digital;SDPB.org;Statewide;Online platform for South Dakota Public Broadcasting, offering news and cultural content. SDPB
+Digital;Mitchell Republic;Mitchell;Online news outlet covering Mitchell and the surrounding region.
+Newspaper;The Tennessean;Nashville;Daily newspaper covering Nashville and Middle Tennessee. Wikipedia
+Newspaper;Knoxville News Sentinel;Knoxville;Daily newspaper serving Knoxville and East Tennessee. Wikipedia
+Newspaper;Chattanooga Times Free Press;Chattanooga;Daily newspaper covering Chattanooga and Southeast Tennessee.
+Newspaper;The Commercial Appeal;Memphis;Daily newspaper serving Memphis and West Tennessee.
+Newspaper;The Leaf-Chronicle;Clarksville;Daily newspaper covering Clarksville and Montgomery County.
+Television;WKRN News 2;Nashville;ABC affiliate providing news, weather, and sports for Middle Tennessee. WKRN
+Television;WSMV News 4;Nashville;NBC affiliate offering local news coverage for Nashville and surrounding areas.
+Television;WREG News Channel 3;Memphis;CBS affiliate covering news in Memphis and the Mid-South.
+Television;WATE 6 On Your Side;Knoxville;ABC affiliate providing news coverage for Knoxville and East Tennessee. Wate
+Television;WTVC NewsChannel 9;Chattanooga;ABC affiliate offering news and weather updates for Chattanooga and Southeast Tennessee.
+Radio;WPLN News 90.3 FM;Nashville;NPR affiliate offering news and cultural programming across Middle Tennessee.
+Radio;WKNO-FM 91.1;Memphis;NPR affiliate serving Memphis and the Mid-South.
+Radio;WUOT 91.9 FM;Knoxville;NPR affiliate covering Knoxville and East Tennessee.
+Radio;WUTC 88.1 FM;Chattanooga;NPR affiliate providing news and cultural content for Chattanooga and Southeast Tennessee.
+Radio;WDVX 89.9 FM;Knoxville;Community radio station featuring Americana and roots music, along with local news.
+Digital;Tennessee Lookout;Statewide;Nonprofit news organization providing in-depth reporting on Tennessee politics and policy.
+Digital;Nashville Scene;Nashville;Alternative weekly newspaper and online platform covering Nashville news, culture, and events.
+Digital;Memphis Flyer;Memphis;Alternative weekly newspaper and online source for Memphis news and culture.
+Digital;Knoxville Mercury;Knoxville;Online news outlet focusing on Knoxville news, events, and culture.
+Digital;Chattanooga Pulse;Chattanooga;Alternative weekly newspaper and online platform covering Chattanooga news and entertainment.
+Newspaper;The Dallas Morning News;Dallas;Major daily newspaper covering Dallas and North Texas. Muck Rack
+Newspaper;Houston Chronicle;Houston;Daily newspaper serving Houston and surrounding areas. Muck Rack
+Newspaper;San Antonio Express-News;San Antonio;Daily newspaper covering San Antonio and South Texas. Muck Rack
+Newspaper;Austin American-Statesman;Austin;Daily newspaper serving Austin and Central Texas. Muck Rack
+Newspaper;Fort Worth Star-Telegram;Fort Worth;Daily newspaper covering Fort Worth and Tarrant County. Muck Rack
+Television;KXAS-TV (NBC 5);Dallas/Fort Worth;NBC affiliate providing news, weather, and sports for the Dallas/Fort Worth area. CBS News
+Television;KHOU 11 News;Houston;CBS affiliate offering local news coverage for Houston and Southeast Texas. CBS News
+Television;KSAT 12 News;San Antonio;ABC affiliate covering news in San Antonio and the Hill Country. CBS News
+Television;KVUE News;Austin;ABC affiliate providing news coverage for Austin and Central Texas. CBS News
+Television;KXAN News;Austin;NBC affiliate offering news and weather updates for Austin and surrounding areas. CBS News
+Radio;KERA News 90.1 FM;Dallas;NPR affiliate offering news and cultural programming across North Texas. CBS News
+Radio;KUHF News 88.7 FM;Houston;NPR affiliate serving Houston and Southeast Texas. CBS News
+Radio;KUT 90.5 FM;Austin;NPR affiliate covering Austin and Central Texas. CBS News
+Radio;Texas Public Radio;San Antonio;NPR affiliate providing news and cultural content for San Antonio and the Hill Country. CBS News
+Radio;WBAP 820 AM;Dallas/Fort Worth;News/talk radio station serving the Dallas/Fort Worth area. CBS News
+Digital;The Texas Tribune;Statewide;Nonprofit news organization providing in-depth reporting on Texas politics and policy. Texas Tribune
+Digital;Texas Monthly;Statewide;Magazine and online platform covering Texas news, culture, and lifestyle. Intelligent Relations
+Digital;Community Impact Newspaper;Multiple Cities;Local news outlet with editions covering various Texas communities. Wikipedia
+Digital;CultureMap;Multiple Cities;Online news source focusing on Texas lifestyle, entertainment, and events. Wikipedia
+Digital;Texas Observer;Statewide;Nonprofit news organization offering investigative journalism and commentary on Texas issues. Wikipedia
+Newspaper;The Salt Lake Tribune;Salt Lake City;Daily newspaper covering statewide news, politics, and culture. The Salt Lake Tribune
+Newspaper;Deseret News;Salt Lake City;Daily newspaper owned by the LDS Church, focusing on Utah news and national issues. Wikipedia
+Newspaper;The Daily Herald;Provo;Daily newspaper serving Utah County and central Utah.
+Newspaper;Standard-Examiner;Ogden;Daily newspaper covering northern Utah, including Ogden and surrounding areas.
+Newspaper;The Spectrum;St. George;Daily newspaper serving southern Utah, including St. George and Cedar City.
+Television;KSL-TV (NBC 5);Salt Lake City;NBC affiliate providing news, weather, and sports for Utah. KSL TV
+Television;KUTV 2 News (CBS 2);Salt Lake City;CBS affiliate offering local news coverage for Salt Lake City and surrounding areas. KUTV
+Television;ABC4 Utah (KTVX);Salt Lake City;ABC affiliate covering news in Salt Lake City and the Wasatch Front. ABC 4
+Television;FOX 13 News (KSTU);Salt Lake City;FOX affiliate providing news coverage for Salt Lake City and northern Utah. Fox 13 Now
+Television;KUED (PBS Utah);Salt Lake City;PBS member station offering educational and cultural programming statewide.
+Radio;KSL NewsRadio 102.7 FM/1160 AM;Salt Lake City;News/talk radio station affiliated with KSL-TV, covering Utah news and events.
+Radio;KUER 90.1 FM;Salt Lake City;NPR affiliate offering news and cultural programming across Utah. KUER
+Radio;KCPW 88.3 FM;Salt Lake City;Public radio station providing news and information for the Salt Lake area.
+Radio;KNRS 105.9 FM/570 AM;Salt Lake City;News/talk radio station covering local and national news.
+Radio;KRCL 90.9 FM;Salt Lake City;Community radio station featuring diverse music and public affairs programming.
+Digital;KSL.com;Salt Lake City;Online news platform affiliated with KSL-TV and KSL NewsRadio, covering Utah news, sports, and classifieds. KSL
+Digital;Utah Policy;Salt Lake City;Online news outlet focusing on Utah politics and policy analysis.
+Digital;Gephardt Daily;Salt Lake City;Digital news source covering breaking news, politics, and community events in Utah.
+Digital;St. George News;St. George;Online news platform covering southern Utah, including local news, events, and features.
+Digital;Utah Business;Salt Lake City;Digital and print publication covering Utah's business community and economic trends.
+Newspaper;The Burlington Free Press;Burlington;Daily newspaper covering Burlington and the surrounding region. Wikipedia
+Newspaper;Seven Days;Burlington;Alternative weekly newspaper covering Vermont news, politics, and culture. Seven Days
+Newspaper;The Vermont Standard;Woodstock;Weekly newspaper serving the Woodstock area and Upper Valley. The Vermont Standard
+Newspaper;The Times Argus;Barre;Daily newspaper covering central Vermont, including Barre and Montpelier.
+Newspaper;Rutland Herald;Rutland;Daily newspaper serving Rutland and southern Vermont.
+Television;WCAX-TV (CBS 3);Burlington;CBS affiliate providing news, weather, and sports for Vermont and the Champlain Valley.
+Television;WPTZ (NBC 5);Plattsburgh, NY;NBC affiliate covering news in Vermont and northern New York.
+Television;WVNY (ABC 22);Burlington;ABC affiliate offering local news coverage for Burlington and the Champlain Valley. My Champlain Valley
+Television;WFFF (FOX 44);Burlington;FOX affiliate providing news and weather updates for Burlington and surrounding areas. My Champlain Valley
+Television;Vermont PBS;Statewide;Public television network offering educational and cultural programming across Vermont. Vermont PBS
+Radio;Vermont Public Radio (VPR);Statewide;NPR affiliate offering news and cultural programming throughout Vermont. Vermont Public
+Radio;WDEV 96.1 FM/550 AM;Waterbury;Independent radio station providing news, talk, and music for central Vermont.
+Radio;WVMT 96.3 FM/620 AM;Burlington;News/talk radio station serving Burlington and the Champlain Valley.
+Radio;WEQX 102.7 FM;Manchester;Independent radio station featuring alternative music and local news.
+Radio;WBTN 1370 AM;Bennington;Community radio station offering local news and public affairs programming.
+Digital;VTDigger;Montpelier;Nonprofit news organization providing in-depth reporting on Vermont politics and policy. VTDigger
+Digital;VT Digger;Statewide;Online news outlet focusing on investigative journalism and statewide news. VTDigger
+Digital;Vermont Business Magazine;Burlington;Digital and print publication covering Vermont's business community and economic trends.
+Digital;The Other Paper;South Burlington;Weekly newspaper and online platform covering South Burlington news and events.
+Digital;The Stowe Reporter;Stowe;Weekly newspaper and online source for Stowe news, sports, and community events.
+Newspaper;The Washington Post;Washington, D.C.;Major daily newspaper covering national and regional news, including Northern Virginia. WTOP
+Newspaper;Richmond Times-Dispatch;Richmond;Daily newspaper serving Richmond and Central Virginia. WTVR
+Newspaper;The Virginian-Pilot;Norfolk;Daily newspaper covering Norfolk, Virginia Beach, and the Hampton Roads area.
+Newspaper;The Roanoke Times;Roanoke;Daily newspaper serving Roanoke and Southwest Virginia. VPM
+Newspaper;Daily Press;Newport News;Daily newspaper covering the Virginia Peninsula and surrounding areas. VPM
+Television;WTVR CBS 6 News;Richmond;CBS affiliate providing news, weather, and sports for Richmond and Central Virginia. WTKR
+Television;WAVY-TV 10;Portsmouth;NBC affiliate offering local news coverage for the Hampton Roads area. WRIC
+Television;WDBJ 7;Roanoke;CBS affiliate covering news in Roanoke and Southwest Virginia. WTOP
+Television;WHSV-TV 3;Harrisonburg;ABC affiliate providing news coverage for the Shenandoah Valley. WTOP
+Television;WVEC 13News Now;Norfolk;ABC affiliate offering news and weather updates for Norfolk and the Hampton Roads area. WSLS 10
+Radio;WTOP 103.5 FM;Washington, D.C.;News radio station covering the Washington metropolitan area, including Northern Virginia. NBC Washington
+Radio;VPM News;Richmond;Public radio station offering news and cultural programming across Virginia. NBC Washington
+Radio;WMRA 90.7 FM;Harrisonburg;NPR affiliate serving the Shenandoah Valley and Central Virginia. WRIC
+Radio;WAMU 88.5 FM;Washington, D.C.;NPR affiliate covering the Washington metropolitan area, including Northern Virginia.
+Radio;WVTF 89.1 FM;Roanoke;Public radio station providing news and cultural content for Southwest Virginia. Wikipedia
+Digital;Virginia Mercury;Statewide;Nonprofit news organization providing in-depth reporting on Virginia politics and policy. Wikipedia
+Digital;ARLnow;Arlington;Online news outlet focusing on Arlington County and Northern Virginia. Wikipedia
+Digital;Richmond BizSense;Richmond;Digital publication covering business news in the Richmond area. Wikipedia
+Digital;The Virginia Star;Statewide;Online news source covering Virginia politics and government. Wikipedia
+Digital;Inside NoVa;Northern Virginia;Digital platform offering news and information for Northern Virginia communities. Wikipedia
+Newspaper;The Seattle Times;Seattle;The largest daily newspaper in Washington, covering Seattle and statewide news. Wikipedia
+Newspaper;The Spokesman-Review;Spokane;Daily newspaper serving Spokane and the Inland Northwest region. Wikipedia
+Newspaper;The News Tribune;Tacoma;Daily newspaper covering Tacoma and Pierce County. Wikipedia
+Newspaper;The Columbian;Vancouver;Daily newspaper serving Vancouver and Southwest Washington. Wikipedia
+Newspaper;The Daily Herald;Everett;Daily newspaper covering Everett and Snohomish County. Wikipedia
+Television;KING 5;Seattle;NBC affiliate providing news, weather, and sports for Seattle and Western Washington. KING 5
+Television;KOMO 4;Seattle;ABC affiliate offering local news coverage for Seattle and surrounding areas. KOMO News
+Television;KIRO 7;Seattle;CBS affiliate covering news in Seattle and the Puget Sound region. KIRO 7
+Television;FOX 13;Seattle;FOX affiliate providing news and weather updates for Seattle and Western Washington. Fox 13 Seattle
+Television;KHQ 6;Spokane;NBC affiliate offering news coverage for Spokane and Eastern Washington.
+Radio;KUOW 94.9 FM;Seattle;NPR affiliate offering news and cultural programming across Western Washington. KUOW
+Radio;KEXP 90.3 FM;Seattle;Independent radio station featuring diverse music and local news. Wikipedia
+Radio;KIRO Radio 97.3 FM;Seattle;News/talk radio station serving Seattle and the Puget Sound area.
+Radio;KNKX 88.5 FM;Tacoma;NPR affiliate providing jazz, blues, and news programming for Western Washington.
+Radio;KXLY 920 AM;Spokane;News/talk radio station covering Spokane and Eastern Washington.
+Digital;Cascade PBS News;Seattle;Nonprofit news organization providing in-depth reporting on Washington state issues. Cascade Public Broadcasting
+Digital;Crosscut;Seattle;Online news outlet focusing on politics, culture, and public policy in the Pacific Northwest. Wikipedia
+Digital;The Stranger;Seattle;Alternative weekly newspaper and online platform covering Seattle news and culture.
+Digital;MyNorthwest.com;Seattle;Digital platform offering news, sports, and entertainment for the Seattle area.
+Digital;Salish Current;Bellingham;Nonprofit news site serving Whatcom, Skagit, and San Juan counties in northwestern Washington. Wikipedia
+Newspaper;Charleston Gazette-Mail;Charleston;Daily newspaper covering Charleston and statewide news. Wikipedia
+Newspaper;The Herald-Dispatch;Huntington;Daily newspaper serving Huntington and the Tri-State area. Wikipedia
+Newspaper;The State Journal;Charleston;Weekly newspaper focusing on business and government news across West Virginia. Wikipedia
+Newspaper;Times West Virginian;Fairmont;Daily newspaper covering Fairmont and surrounding communities. Wikipedia
+Newspaper;The Dominion Post;Morgantown;Daily newspaper serving Morgantown and North-Central West Virginia.
+Television;WCHS-TV (ABC 8);Charleston;ABC affiliate providing news, weather, and sports for Charleston and nearby areas. WCHS-TV
+Television;WOWK-TV (CBS 13);Charleston/Huntington;CBS affiliate offering local news coverage for Charleston, Huntington, and the surrounding region. WOWK 13 News
+Television;WVNS-TV (CBS/FOX 59);Beckley;CBS and FOX affiliate covering news in Beckley and Southern West Virginia. WVNS 59 News
+Television;WBOY-TV (NBC/ABC 12);Clarksburg;NBC and ABC affiliate providing news coverage for Clarksburg, Fairmont, and Morgantown. WBOY
+Television;WDTV (CBS 5);Bridgeport;CBS affiliate offering news and weather updates for North-Central West Virginia.
+Radio;WV MetroNews;Statewide;Statewide radio network providing news, sports, and talk programming. WV MetroNews
+Radio;West Virginia Public Broadcasting;Statewide;NPR affiliate offering news and cultural programming across West Virginia. West Virginia Public Broadcasting
+Radio;WCHS-AM 580;Charleston;News/talk radio station serving Charleston and the Kanawha Valley.
+Radio;WAJR-AM 1440;Morgantown;News/talk radio station covering Morgantown and North-Central West Virginia.
+Radio;WVOW-AM 1290;Logan;News/talk and sports radio station serving Southern West Virginia.
+Digital;WV MetroNews;Statewide;Online news platform offering statewide news, sports, and commentary. WV MetroNews
+Digital;West Virginia Public Broadcasting;Statewide;Digital platform for West Virginia Public Broadcasting, providing news and cultural content. West Virginia Public Broadcasting
+Digital;The Panhandle News Network;Martinsburg;Online news outlet focusing on the Eastern Panhandle of West Virginia. Panhandle News Network
+Digital;HuntingtonNews.net;Huntington;Online news source covering Huntington and the Tri-State area.
+Digital;Weirton Daily Times;Weirton;Online platform for the daily newspaper serving Weirton and the Northern Panhandle.
+Newspaper;Milwaukee Journal Sentinel;Milwaukee;The largest daily newspaper in Wisconsin, covering Milwaukee and statewide news. WISN 12 News
+Newspaper;Wisconsin State Journal;Madison;Daily newspaper serving Madison and south-central Wisconsin. Wikipedia
+Newspaper;Green Bay Press-Gazette;Green Bay;Daily newspaper covering Green Bay and northeastern Wisconsin. NBC26
+Newspaper;The Post-Crescent;Appleton;Daily newspaper serving Appleton and the Fox Cities region. NBC26
+Newspaper;The Capital Times;Madison;Digital-first newspaper focusing on Madison and state politics. NBC26
+Television;WISN 12 News;Milwaukee;ABC affiliate providing news, weather, and sports for Milwaukee and southeastern Wisconsin. WISN 12 News
+Television;WTMJ-TV (TMJ4);Milwaukee;NBC affiliate offering local news coverage for Milwaukee and surrounding areas. TMJ4
+Television;WKOW 27 News;Madison;ABC affiliate covering news in Madison and south-central Wisconsin. NBC26
+Television;WISC-TV (News 3 Now);Madison;CBS affiliate providing news and weather updates for Madison and the surrounding region. NBC26
+Television;WBAY-TV 2;Green Bay;ABC affiliate offering news coverage for Green Bay and northeastern Wisconsin. NBC26
+Radio;Wisconsin Public Radio (WPR);Statewide;NPR affiliate offering news and cultural programming across Wisconsin. Wisconsin Public Radio
+Radio;WTMJ 620 AM;Milwaukee;News/talk radio station serving Milwaukee and southeastern Wisconsin. NBC26
+Radio;WIBA 1310 AM;Madison;News/talk radio station covering Madison and south-central Wisconsin. NBC26
+Radio;WHBY 1150 AM;Appleton;News/talk radio station serving Appleton and the Fox Cities. NBC26
+Radio;WTAQ 1360 AM;Green Bay;News/talk radio station covering Green Bay and northeastern Wisconsin. NBC26
+Digital;WisPolitics.com;Statewide;Online news outlet focusing on Wisconsin politics and government. NBC26
+Digital;Urban Milwaukee;Milwaukee;Online publication covering Milwaukee news, politics, and culture. NBC26
+Digital;Madison365;Madison;Digital news source focusing on communities of color in Madison and Wisconsin. NBC26
+Digital;OnMilwaukee;Milwaukee;Online magazine covering Milwaukee entertainment, dining, and events. NBC26
+Digital;The Badger Herald;Madison;Student-run newspaper at the University of Wisconsin-Madison, covering campus and local news. NBC26
+Newspaper;Casper Star-Tribune;Casper;Wyoming's largest daily newspaper, covering statewide news, politics, and community events. Wikipedia
+Newspaper;Wyoming Tribune Eagle;Cheyenne;Daily newspaper serving Cheyenne and Laramie County, focusing on local news and events. Wikipedia
+Newspaper;Jackson Hole News&Guide;Jackson;Weekly newspaper covering news, sports, and features in Jackson and Teton County. Wikipedia
+Newspaper;Gillette News Record;Gillette;Daily newspaper serving Gillette and Campbell County, providing local news and information.
+Newspaper;Laramie Boomerang;Laramie;Daily newspaper covering Laramie and Albany County, focusing on community news and events.
+Television;KCWY 13 News;Casper;NBC affiliate providing news, weather, and sports coverage for central Wyoming.
+Television;KGWN NewsChannel 5;Cheyenne;CBS affiliate offering local news coverage for Cheyenne and southeastern Wyoming.
+Television;KTWO-TV;Casper;ABC affiliate covering news and events in Casper and central Wyoming.
+Television;K2TV;Casper;Independent station providing local news and weather updates for Casper and surrounding areas.
+Television;Wyoming PBS;Riverton;Public television network offering educational and cultural programming statewide.
+Radio;Wyoming Public Radio;Laramie;NPR affiliate offering news and cultural programming across Wyoming. Wyoming Public Media
+Radio;KTWO 1030 AM;Casper;News/talk radio station serving Casper and central Wyoming.
+Radio;KOWB 1290 AM;Laramie;News/talk radio station covering Laramie and Albany County.
+Radio;KROE 930 AM;Sheridan;News/talk radio station serving Sheridan and northern Wyoming.
+Radio;KUGR 1490 AM;Green River;News/talk and sports radio station covering Green River and southwestern Wyoming.
+Digital;WyoFile;Statewide;Nonprofit news organization providing in-depth reporting on Wyoming's people, places, and policies. Wyofile
+Digital;Cowboy State Daily;Statewide;Online news outlet covering Wyoming news, politics, and community stories. Cowboy State Daily
+Digital;SweetwaterNOW;Rock Springs;Independent online news source covering southwest Wyoming, including Rock Springs and Green River. Sweetwater Now
+Digital;Cap City News;Cheyenne;Online news platform focusing on Cheyenne and Laramie County. CapCity News
+Digital;Buckrail;Jackson;Web-based news outlet providing breaking news and community updates for Jackson Hole and surrounding areas. Buckrail
